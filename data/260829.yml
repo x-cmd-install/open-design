@@ -1,0 +1,53 @@
+about:
+  description: 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode & 20+ CLIs via BYOK.
+  license: Apache-2.0
+  homepage: https://open-design.ai
+  head: a554d01
+  archived: false
+  latestVersion: open-design-v0.21.0
+  collectedAt: 2026-08-29T07:12:12Z
+timeline:
+  created: 2026-04-28
+  lastCommit: 2026-08-28
+  lastRelease: 2026-08-25
+popularity:
+  star: 92466
+  watcher: 276
+  fork: 10658
+  release: 31
+  contributor: 430
+  pullRequest: 1596
+  issue: 1874
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 10
+    mergedPR: 577
+    openPR: 226
+    closedIssue: 85
+    openIssue: 166
+    commit: 430
+  last90d:
+    since: 2026-05-31
+    release: 22
+    mergedPR: 1828
+    openPR: 413
+    closedIssue: 453
+    openIssue: 347
+    commit: 1580
+  last180d:
+    since: 2026-03-02
+    release: 31
+    mergedPR: 3069
+    openPR: 431
+    closedIssue: 1402
+    openIssue: 472
+    commit: 3278
+  last360d:
+    since: 2025-09-03
+    release: 31
+    mergedPR: 3069
+    openPR: 431
+    closedIssue: 1402
+    openIssue: 472
+    commit: 3278
