@@ -4,10 +4,10 @@
 
 - **Upstream**: <https://github.com/nexu-io/open-design>
 - **Homepage**: <https://open-design.ai>
-- **Latest release**: `open-design-v0.21.1` (2026-08-31)
-- **Last commit**: 2026-09-08
+- **Latest release**: `open-design-v0.22.0` (2026-09-08)
+- **Last commit**: 2026-09-09
 - **License**: Apache-2.0
-- **Stars**: 94834 · **Forks**: 10963 · **Open issues**: 1921 · **Contributors**: 437
+- **Stars**: 94986 · **Forks**: 10989 · **Open issues**: 1921 · **Contributors**: 437
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/open-design> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T11:37:55Z._
+_Last regenerated: 2026-09-09T05:30:12Z._
