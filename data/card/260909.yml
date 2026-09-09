@@ -1,0 +1,200 @@
+about:
+  description: "🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode & 20+ CLIs via BYOK."
+  license: Apache-2.0
+  homepage: https://open-design.ai
+  head: d07102a
+  archived: false
+  latestVersion: "open-design-v0.22.0"
+  latestRelease: "open-design-v0.22.0"
+  latestPrerelease: ""
+  collectedAt: 2026-09-09T05:27:21Z
+timeline:
+  created: 2026-04-28
+  lastCommit: 2026-09-09
+  lastVersion: 2026-09-08
+  lastRelease: 2026-09-08
+  lastPrerelease: 
+popularity:
+  star: 94986
+  watcher: 289
+  fork: 10989
+  release: 33
+  contributor: 437
+  pullRequest: 5016
+  issue: 1921
+language:
+  TypeScript: 68728371
+  HTML: 22427609
+  CSS: 4517575
+  JavaScript: 1244373
+  Python: 1170357
+  Shell: 201868
+  PowerShell: 58518
+  Bicep: 13815
+  Dockerfile: 4542
+  Go Template: 2729
+  Batchfile: 811
+totalBytes: 98370568
+recent:
+  last30d:
+    since: 2026-08-10
+    release: 9
+    mergedPR: 530
+    openPR: 216
+    closedIssue: 57
+    openIssue: 142
+    commit: 323
+  last60d:
+    since: 2026-07-11
+    release: 16
+    mergedPR: 1090
+    openPR: 364
+    closedIssue: 192
+    openIssue: 267
+    commit: 732
+  last90d:
+    since: 2026-06-11
+    release: 23
+    mergedPR: 1647
+    openPR: 447
+    closedIssue: 361
+    openIssue: 332
+    commit: 1272
+  last180d:
+    since: 2026-03-13
+    release: 33
+    mergedPR: 3272
+    openPR: 469
+    closedIssue: 1441
+    openIssue: 480
+    commit: 3378
+  last360d:
+    since: 2025-09-14
+    release: 33
+    mergedPR: 3272
+    openPR: 469
+    closedIssue: 1441
+    openIssue: 480
+    commit: 3378
+  last720d:
+    since: 2024-09-19
+    release: 33
+    mergedPR: 3272
+    openPR: 469
+    closedIssue: 1441
+    openIssue: 480
+    commit: 3566
+total:
+  release: 33
+  mergedPR: 3272
+  openPR: 469
+  closedIssue: 1441
+  openIssue: 480
+  commit: 3566
+---
+path: /home/runner/.x-repo/github.com/nexu-io/open-design
+collectedAt: 2026-09-09T05:29:17Z
+loc:
+  TypeScript:
+    code: 991248
+    comments: 109085
+    blanks: 75119
+    files: 3321
+  Json:
+    code: 441199
+    comments: 0
+    blanks: 58
+    files: 1848
+  Tsx:
+    code: 375864
+    comments: 47245
+    blanks: 31073
+    files: 933
+  Html:
+    code: 162443
+    comments: 3265
+    blanks: 4503
+    files: 2467
+  Css:
+    code: 113587
+    comments: 18715
+    blanks: 5919
+    files: 518
+  JavaScript:
+    code: 31379
+    comments: 3773
+    blanks: 2109
+    files: 155
+  Python:
+    code: 26429
+    comments: 1121
+    blanks: 3968
+    files: 86
+  Yaml:
+    code: 13398
+    comments: 191
+    blanks: 1156
+    files: 35
+  Sh:
+    code: 3332
+    comments: 310
+    blanks: 450
+    files: 23
+  Svg:
+    code: 1095
+    comments: 17
+    blanks: 16
+    files: 75
+  PowerShell:
+    code: 1003
+    comments: 13
+    blanks: 45
+    files: 7
+  Dockerfile:
+    code: 93
+    comments: 14
+    blanks: 14
+    files: 1
+  Jsx:
+    code: 90
+    comments: 0
+    blanks: 9
+    files: 6
+  Pan:
+    code: 81
+    comments: 0
+    blanks: 9
+    files: 2
+  Bash:
+    code: 57
+    comments: 68
+    blanks: 0
+    files: 19
+  Batch:
+    code: 18
+    comments: 0
+    blanks: 3
+    files: 1
+  Toml:
+    code: 3
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 259348
+    blanks: 71451
+    files: 2215
+  Text:
+    code: 0
+    comments: 1274
+    blanks: 216
+    files: 11
+total:
+  code: 2488257
+  comments: 457692
+  blanks: 209159
+  files: 11724
+---
+
+---
