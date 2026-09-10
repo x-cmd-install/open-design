@@ -38,22 +38,22 @@ Total: **2,169,727** lines of code across **9142** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 95,401 · **Forks**: 11,050 · **Open issues**: 1,932 · **Contributors**: 438
+- **Stars**: 95,411 · **Forks**: 11,052 · **Open issues**: 1,932 · **Contributors**: 438
 
 ## Totals (cumulative)
 
-- **Releases**: 35 · **Merged PRs**: 3315 · **Open PRs**: 495 · **Closed issues**: 1444 · **Open issues**: 488 · **Commits**: 3596
+- **Releases**: 35 · **Merged PRs**: 3315 · **Open PRs**: 497 · **Closed issues**: 1444 · **Open issues**: 488 · **Commits**: 3596
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 11 | 549 | 240 | 53 | 149 | 353 |
-| last60d | 2026-07-12 | 18 | 1124 | 389 | 191 | 272 | 762 |
-| 90d | 2026-06-12 | 24 | 1668 | 469 | 353 | 339 | 1302 |
-| last180d | 2026-03-14 | 35 | 3315 | 495 | 1444 | 488 | 3408 |
-| 360d | 2025-09-15 | 35 | 3315 | 495 | 1444 | 488 | 3408 |
-| last720d | 2024-09-20 | 35 | 3315 | 495 | 1444 | 488 | 3596 |
+| 30d | 2026-08-11 | 11 | 549 | 242 | 53 | 149 | 353 |
+| last60d | 2026-07-12 | 18 | 1124 | 391 | 191 | 272 | 762 |
+| 90d | 2026-06-12 | 24 | 1668 | 471 | 353 | 339 | 1302 |
+| last180d | 2026-03-14 | 35 | 3315 | 497 | 1444 | 488 | 3408 |
+| 360d | 2025-09-15 | 35 | 3315 | 497 | 1444 | 488 | 3408 |
+| last720d | 2024-09-20 | 35 | 3315 | 497 | 1444 | 488 | 3596 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for open-design lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T20:45:06Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T23:07:50Z._
