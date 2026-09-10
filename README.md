@@ -12,6 +12,18 @@
 x install open-design
 ```
 
+## Code insight
+
+Total: **2,169,727** lines of code across **9142** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| TypeScript | 996,695 | 110,247 | 75,624 | 3355 |
+| Json | 441,202 | 0 | 58 | 1848 |
+| Tsx | 379,383 | 47,891 | 31,432 | 954 |
+| Html | 162,443 | 3,265 | 4,503 | 2467 |
+| Css | 113,023 | 18,708 | 5,854 | 518 |
+
 ## Source
 
 - **Upstream**: <https://github.com/nexu-io/open-design>
@@ -20,46 +32,51 @@ x install open-design
 
 ## Release
 
-- **Latest**: `open-design-v0.22.1` (2026-09-09)
+- **Latest**: `open-design-v0.22.2` (2026-09-10)
 - **Last commit**: 2026-09-10
 - **Assets in release**: 6
-- **Published**: 2026-09-09T12:30:14Z
 
 ## Popularity
 
-- **Stars**: 95,227 · **Forks**: 11,027 · **Open issues**: 1,926 · **Contributors**: 437
+- **Stars**: 95,401 · **Forks**: 11,050 · **Open issues**: 1,932 · **Contributors**: 438
 
 ## Totals (cumulative)
 
-- **Releases**: 34 · **Merged PRs**: 3300 · **Open PRs**: 487 · **Closed issues**: 1443 · **Open issues**: 483 · **Commits**: 3582
+- **Releases**: 35 · **Merged PRs**: 3315 · **Open PRs**: 495 · **Closed issues**: 1444 · **Open issues**: 488 · **Commits**: 3596
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 10 | 534 | 231 | 52 | 144 | 339 |
-| 90d | 2026-06-12 | 23 | 1653 | 461 | 352 | 334 | 1288 |
-| 360d | 2025-09-15 | 34 | 3300 | 487 | 1443 | 483 | 3394 |
+| 30d | 2026-08-11 | 11 | 549 | 240 | 53 | 149 | 353 |
+| last60d | 2026-07-12 | 18 | 1124 | 389 | 191 | 272 | 762 |
+| 90d | 2026-06-12 | 24 | 1668 | 469 | 353 | 339 | 1302 |
+| last180d | 2026-03-14 | 35 | 3315 | 495 | 1444 | 488 | 3408 |
+| 360d | 2025-09-15 | 35 | 3315 | 495 | 1444 | 488 | 3408 |
+| last720d | 2024-09-20 | 35 | 3315 | 495 | 1444 | 488 | 3596 |
 
-## Code size
+## Release assets
 
-Total: **2,166,490** lines of code across **9105** files in the top 5 languages.
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [open-design-0.22.2-mac-arm64.dmg](https://github.com/nexu-io/open-design/releases/download/open-design-v0.22.2/open-design-0.22.2-mac-arm64.dmg) | 382.3 MiB | `other` |
+| [open-design-0.22.2-mac-arm64.dmg.sha256](https://github.com/nexu-io/open-design/releases/download/open-design-v0.22.2/open-design-0.22.2-mac-arm64.dmg.sha256) | 99 B | `other` |
+| [open-design-0.22.2-mac-x64.dmg](https://github.com/nexu-io/open-design/releases/download/open-design-v0.22.2/open-design-0.22.2-mac-x64.dmg) | 401.2 MiB | `other` |
+| [open-design-0.22.2-mac-x64.dmg.sha256](https://github.com/nexu-io/open-design/releases/download/open-design-v0.22.2/open-design-0.22.2-mac-x64.dmg.sha256) | 97 B | `other` |
+| [open-design-0.22.2-win-x64-setup.exe](https://github.com/nexu-io/open-design/releases/download/open-design-v0.22.2/open-design-0.22.2-win-x64-setup.exe) | 417.9 MiB | `other` |
+| [open-design-0.22.2-win-x64-setup.exe.sha256](https://github.com/nexu-io/open-design/releases/download/open-design-v0.22.2/open-design-0.22.2-win-x64-setup.exe.sha256) | 104 B | `other` |
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| TypeScript | 994,601 | 109,916 | 75,398 | 3333 |
-| Json | 441,202 | 0 | 58 | 1848 |
-| Tsx | 377,669 | 47,821 | 31,321 | 939 |
-| Html | 162,443 | 3,265 | 4,503 | 2467 |
-| Css | 113,597 | 18,719 | 5,921 | 518 |
+## Distribution status
+
+Reported by **3** distros on [repology.org](https://repology.org/project/open-design). **2** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
 
 ## Improve this data
 
 Install metadata for open-design lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `open-design` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/open-design.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/open-design.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:16:03Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:45:06Z._
