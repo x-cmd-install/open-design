@@ -2,30 +2,30 @@ about:
   description: "🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode & 20+ CLIs via BYOK."
   license: Apache-2.0
   homepage: https://open-design.ai
-  head: be0887b
+  head: 07170f8
   archived: false
-  latestVersion: "open-design-v0.22.1"
-  latestRelease: "open-design-v0.22.1"
+  latestVersion: "open-design-v0.22.2"
+  latestRelease: "open-design-v0.22.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:14:22Z
+  collectedAt: 2026-09-10T20:43:22Z
 timeline:
   created: 2026-04-28
   lastCommit: 2026-09-10
-  lastVersion: 2026-09-09
-  lastRelease: 2026-09-09
+  lastVersion: 2026-09-10
+  lastRelease: 2026-09-10
   lastPrerelease: 
 popularity:
-  star: 95227
-  watcher: 290
-  fork: 11027
-  release: 34
-  contributor: 437
-  pullRequest: 5070
-  issue: 1926
+  star: 95401
+  watcher: 291
+  fork: 11050
+  release: 35
+  contributor: 438
+  pullRequest: 5095
+  issue: 1932
 language:
-  TypeScript: 69056903
+  TypeScript: 69259010
   HTML: 22427609
-  CSS: 4518134
+  CSS: 4505390
   JavaScript: 1244373
   Python: 1170357
   Shell: 201868
@@ -34,95 +34,95 @@ language:
   Dockerfile: 4542
   Go Template: 2729
   Batchfile: 811
-totalBytes: 98699659
+totalBytes: 98889022
 recent:
   last30d:
     since: 2026-08-11
-    release: 10
-    mergedPR: 534
-    openPR: 231
-    closedIssue: 52
-    openIssue: 144
-    commit: 339
+    release: 11
+    mergedPR: 549
+    openPR: 240
+    closedIssue: 53
+    openIssue: 149
+    commit: 353
   last60d:
     since: 2026-07-12
-    release: 17
-    mergedPR: 1109
-    openPR: 380
-    closedIssue: 190
-    openIssue: 267
-    commit: 748
+    release: 18
+    mergedPR: 1124
+    openPR: 389
+    closedIssue: 191
+    openIssue: 272
+    commit: 762
   last90d:
     since: 2026-06-12
-    release: 23
-    mergedPR: 1653
-    openPR: 461
-    closedIssue: 352
-    openIssue: 334
-    commit: 1288
+    release: 24
+    mergedPR: 1668
+    openPR: 469
+    closedIssue: 353
+    openIssue: 339
+    commit: 1302
   last180d:
     since: 2026-03-14
-    release: 34
-    mergedPR: 3300
-    openPR: 487
-    closedIssue: 1443
-    openIssue: 483
-    commit: 3394
+    release: 35
+    mergedPR: 3315
+    openPR: 495
+    closedIssue: 1444
+    openIssue: 488
+    commit: 3408
   last360d:
     since: 2025-09-15
-    release: 34
-    mergedPR: 3300
-    openPR: 487
-    closedIssue: 1443
-    openIssue: 483
-    commit: 3394
+    release: 35
+    mergedPR: 3315
+    openPR: 495
+    closedIssue: 1444
+    openIssue: 488
+    commit: 3408
   last720d:
     since: 2024-09-20
-    release: 34
-    mergedPR: 3300
-    openPR: 487
-    closedIssue: 1443
-    openIssue: 483
-    commit: 3582
+    release: 35
+    mergedPR: 3315
+    openPR: 495
+    closedIssue: 1444
+    openIssue: 488
+    commit: 3596
 total:
-  release: 34
-  mergedPR: 3300
-  openPR: 487
-  closedIssue: 1443
-  openIssue: 483
-  commit: 3582
+  release: 35
+  mergedPR: 3315
+  openPR: 495
+  closedIssue: 1444
+  openIssue: 488
+  commit: 3596
 ---
 path: /home/runner/.x-repo/github.com/nexu-io/open-design
-collectedAt: 2026-09-10T05:15:55Z
+collectedAt: 2026-09-10T20:44:56Z
 loc:
   TypeScript:
-    code: 994601
-    comments: 109916
-    blanks: 75398
-    files: 3333
+    code: 996695
+    comments: 110247
+    blanks: 75624
+    files: 3355
   Json:
     code: 441202
     comments: 0
     blanks: 58
     files: 1848
   Tsx:
-    code: 377669
-    comments: 47821
-    blanks: 31321
-    files: 939
+    code: 379383
+    comments: 47891
+    blanks: 31432
+    files: 954
   Html:
     code: 162443
     comments: 3265
     blanks: 4503
     files: 2467
   Css:
-    code: 113597
-    comments: 18719
-    blanks: 5921
+    code: 113023
+    comments: 18708
+    blanks: 5854
     files: 518
   JavaScript:
-    code: 31379
-    comments: 3773
+    code: 31382
+    comments: 3775
     blanks: 2109
     files: 155
   Python:
@@ -182,19 +182,19 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 259663
-    blanks: 71527
-    files: 2218
+    comments: 259691
+    blanks: 71542
+    files: 2219
   Text:
     code: 0
     comments: 1274
     blanks: 216
     files: 11
 total:
-  code: 2493433
-  comments: 459418
-  blanks: 209764
-  files: 11745
+  code: 2496670
+  comments: 459838
+  blanks: 210049
+  files: 11783
 ---
 
 ---
