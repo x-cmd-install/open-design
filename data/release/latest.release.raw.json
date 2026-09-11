@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 400920371,
       "digest": "sha256:9c3c5f1e523dac9228c51331dea41de998f61ab9b2d51def27f642e2ce70a30e",
-      "download_count": 1172,
+      "download_count": 2033,
       "created_at": "2026-09-10T10:24:11Z",
       "updated_at": "2026-09-10T10:24:36Z",
       "browser_download_url": "https://github.com/nexu-io/open-design/releases/download/open-design-v0.22.2/open-design-0.22.2-mac-arm64.dmg"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 99,
       "digest": "sha256:d76db9b9979f95ce91e06ff5f32eefdc00d099a2caceccc30f266670423255b5",
-      "download_count": 41,
+      "download_count": 77,
       "created_at": "2026-09-10T10:24:11Z",
       "updated_at": "2026-09-10T10:24:11Z",
       "browser_download_url": "https://github.com/nexu-io/open-design/releases/download/open-design-v0.22.2/open-design-0.22.2-mac-arm64.dmg.sha256"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 420637754,
       "digest": "sha256:9094113d0928d9ae2bea6610533d97dcf6191514f44d9966de3825ec02fec18b",
-      "download_count": 75,
+      "download_count": 125,
       "created_at": "2026-09-10T10:24:11Z",
       "updated_at": "2026-09-10T10:24:39Z",
       "browser_download_url": "https://github.com/nexu-io/open-design/releases/download/open-design-v0.22.2/open-design-0.22.2-mac-x64.dmg"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 97,
       "digest": "sha256:390f541d950cc4cdc652ecf6274142f8fb9652f37035e3e6e525e2718541cfcb",
-      "download_count": 25,
+      "download_count": 32,
       "created_at": "2026-09-10T10:24:11Z",
       "updated_at": "2026-09-10T10:24:11Z",
       "browser_download_url": "https://github.com/nexu-io/open-design/releases/download/open-design-v0.22.2/open-design-0.22.2-mac-x64.dmg.sha256"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 438207278,
       "digest": "sha256:7916ea5fbb4e61edb186951ac3689f8b0eccac4f448f740c80d26067094ce0f2",
-      "download_count": 2330,
+      "download_count": 4062,
       "created_at": "2026-09-10T10:24:11Z",
       "updated_at": "2026-09-10T10:24:39Z",
       "browser_download_url": "https://github.com/nexu-io/open-design/releases/download/open-design-v0.22.2/open-design-0.22.2-win-x64-setup.exe"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 104,
       "digest": "sha256:e439a2041828c120c6ecce171471b22483dfc65bfdccafb3877c1c4f49f35c84",
-      "download_count": 95,
+      "download_count": 162,
       "created_at": "2026-09-10T10:24:12Z",
       "updated_at": "2026-09-10T10:24:12Z",
       "browser_download_url": "https://github.com/nexu-io/open-design/releases/download/open-design-v0.22.2/open-design-0.22.2-win-x64-setup.exe.sha256"
@@ -258,13 +258,13 @@
   "body": "Open Design 0.22.2 is a focused desktop update reliability patch for macOS and Windows.\n\n## 🐛 Fixed\n\n- 🔄 **Return to the app more reliably after an update.** The updated app waits for the previous instance to finish closing before starting, helping prevent an update restart from ending without a new window. (#7970) Thanks @PerishCode.\n- ⏳ **Keep clear feedback while an update restarts.** An accepted restart no longer shows a quit failure just because closing background work takes more than ten seconds. Repeated quit requests wait for the same cleanup; an explicit quit refusal still offers a retry without reinstalling the update. (#7982) Thanks @PerishCode.\n\n### Upgrading from an older version\n\nThe first upgrade to 0.22.2 still uses the older app's shutdown screen and behavior. If it reports a quit error but then restarts successfully, the new version can still be installed. Clients already stuck in a restart loop may need help from customer support; this patch does not automatically recover those installations.\n\n> 📥 **Download:** [Open Design downloads](https://open-design.ai/download/).\n\n## 🙏 Thanks to everyone who shipped 0.22.2\n\n@PerishCode\n",
   "reactions": {
     "url": "https://api.github.com/repos/nexu-io/open-design/releases/386183648/reactions",
-    "total_count": 1,
+    "total_count": 2,
     "+1": 1,
     "-1": 0,
     "laugh": 0,
     "hooray": 0,
     "confused": 0,
-    "heart": 0,
+    "heart": 1,
     "rocket": 0,
     "eyes": 0
   },
