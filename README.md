@@ -38,22 +38,22 @@ Total: **2,171,147** lines of code across **9150** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 95,599 · **Forks**: 11,080 · **Open issues**: 1,938 · **Contributors**: 438
+- **Stars**: 95,817 · **Forks**: 11,107 · **Open issues**: 1,949 · **Contributors**: 437
 
 ## Totals (cumulative)
 
-- **Releases**: 35 · **Merged PRs**: 3322 · **Open PRs**: 526 · **Closed issues**: 1452 · **Open issues**: 486 · **Commits**: 3601
+- **Releases**: 35 · **Merged PRs**: 3314 · **Open PRs**: 524 · **Closed issues**: 1456 · **Open issues**: 493 · **Commits**: 3601
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 10 | 547 | 266 | 51 | 147 | 358 |
-| last60d | 2026-07-13 | 18 | 1097 | 410 | 191 | 264 | 767 |
-| 90d | 2026-06-13 | 23 | 1665 | 500 | 356 | 336 | 1307 |
-| last180d | 2026-03-15 | 35 | 3322 | 526 | 1452 | 486 | 3413 |
-| 360d | 2025-09-16 | 35 | 3322 | 526 | 1452 | 486 | 3413 |
-| last720d | 2024-09-21 | 35 | 3322 | 526 | 1452 | 486 | 3601 |
+| 30d | 2026-08-14 | 10 | 472 | 262 | 48 | 149 | 358 |
+| last60d | 2026-07-15 | 17 | 1016 | 404 | 177 | 269 | 767 |
+| 90d | 2026-06-15 | 23 | 1619 | 496 | 345 | 338 | 1307 |
+| last180d | 2026-03-17 | 35 | 3314 | 524 | 1456 | 493 | 3413 |
+| 360d | 2025-09-18 | 35 | 3314 | 524 | 1456 | 493 | 3413 |
+| last720d | 2024-09-23 | 35 | 3314 | 524 | 1456 | 493 | 3601 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for open-design lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T19:37:16Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T05:24:08Z._
