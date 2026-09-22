@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 400642164,
       "digest": "sha256:88446bb9f565099cef97b045fba6ce678af299b3f112fd8a5b23cf81ae725959",
-      "download_count": 889,
+      "download_count": 2369,
       "created_at": "2026-09-20T11:10:06Z",
       "updated_at": "2026-09-20T11:10:18Z",
       "browser_download_url": "https://github.com/nexu-io/open-design/releases/download/open-design-v0.23.0/open-design-0.23.0-mac-arm64.dmg"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 99,
       "digest": "sha256:521eb9c83b82b82c4593df676372d66846ac46d916bdbc202b5f18eb49c08243",
-      "download_count": 36,
+      "download_count": 92,
       "created_at": "2026-09-20T11:10:06Z",
       "updated_at": "2026-09-20T11:10:06Z",
       "browser_download_url": "https://github.com/nexu-io/open-design/releases/download/open-design-v0.23.0/open-design-0.23.0-mac-arm64.dmg.sha256"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 420446010,
       "digest": "sha256:1d88c0cb282a1e503c54068cccb46a52684259e6df755a0a24cd65fcee1e8ea1",
-      "download_count": 87,
+      "download_count": 179,
       "created_at": "2026-09-20T11:10:06Z",
       "updated_at": "2026-09-20T11:10:17Z",
       "browser_download_url": "https://github.com/nexu-io/open-design/releases/download/open-design-v0.23.0/open-design-0.23.0-mac-x64.dmg"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 97,
       "digest": "sha256:83d89d5e6655265f11932802686a6e279eeb43422de7e57bc5a8f7d4ad3de712",
-      "download_count": 23,
+      "download_count": 45,
       "created_at": "2026-09-20T11:10:06Z",
       "updated_at": "2026-09-20T11:10:06Z",
       "browser_download_url": "https://github.com/nexu-io/open-design/releases/download/open-design-v0.23.0/open-design-0.23.0-mac-x64.dmg.sha256"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 437982573,
       "digest": "sha256:fc0197e959f55cba775112d71c722182988e80f007191b0ec08fb8c6bc79c0fe",
-      "download_count": 1423,
+      "download_count": 4015,
       "created_at": "2026-09-20T11:10:06Z",
       "updated_at": "2026-09-20T11:10:19Z",
       "browser_download_url": "https://github.com/nexu-io/open-design/releases/download/open-design-v0.23.0/open-design-0.23.0-win-x64-setup.exe"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 104,
       "digest": "sha256:1094e027368652a64678efa6e3966593920c860aed1a0cea7eb001ea608cee2e",
-      "download_count": 88,
+      "download_count": 225,
       "created_at": "2026-09-20T11:10:06Z",
       "updated_at": "2026-09-20T11:10:06Z",
       "browser_download_url": "https://github.com/nexu-io/open-design/releases/download/open-design-v0.23.0/open-design-0.23.0-win-x64-setup.exe.sha256"
@@ -258,8 +258,8 @@
   "body": "### 🌟 Codename: *Home, Rebuilt.*\n\n🧵 **73 PRs · 8 contributors · 10 days** — **Open Design 0.23.0 rebuilds the place where work begins and continues.** Home, recent projects, run status, and the project conversation now form one clearer route into the work instead of separate places to navigate. 🚀\n\n## 🔥 Highlights\n\n- 🧠 **A clarification can survive the real world.** Ask Open Design to continue a task, restart while it needs an answer, then come back and answer it: OD Next keeps the thread resumable instead of quietly abandoning the work. Failed runs now tell the truth before finalization, while delivered prototype pages stay delivered—not mysteriously marked as failures. (#7575, #7980, #7942, #7931, #7949) Thanks @lorenzozanee, @Siri-Ray.\n- 💬 **The conversation no longer drops its own evidence.** Earlier question forms, repeated-file read ranges, artifact updates and successful image next steps stay attached to the right turn. Workspace writes stop posing as deliverables, and quiet auxiliary cards step out of the way. (#7996, #7997, #8019, #8047, #8057, #7920, #7956) Thanks @lefarcen.\n- 🔁 **Retries finally pick up where you left them.** Cloud retries wait for the authority and history they need; transient reads recover; folded tasks retain their blocked state and retry the actual failed run. A pending clarification also stays in charge until you answer it. (#7953, #7954, #7955, #7967, #7981, #7989) Thanks @app/open-design-crew.\n- 🛠️ **ACP results remain readable—even when a run does not.** Tool rows now appear while Codex or OpenCode is still preparing their arguments; buffered words, failed tool results and a real cancellation all make it back into the conversation, while URLs stop masquerading as filenames in the record. (#8117, #7959, #8015, #8046, #8063) Thanks @Siri-Ray.\n- 🖼️ **Artifact-heavy chats stay in the order you chose.** Cover-image failures have a useful fallback; live updates refresh the card you are already reading; image strips scroll; requested file ranges and selected artifact order remain visible. (#8045, #8060, #8062, #8013) Thanks @app/open-design-crew.\n- 🧰 **Bring your own model without opening a privacy detour.** Image input works when a BYOK provider cannot advertise every capability, while proxy Basic credentials stay out of export and media tool-token lanes. (#8035, #7999, #8006) Thanks @Siri-Ray, @readwrightexecute.\n- 📦 **The installed app holds onto its engine.** Packaged MCP and sidecar delivery remain intact, and updater cleanup no longer removes the launcher payload that is still doing the work. (#8027, #7963) Thanks @PerishCode.\n- 🏠 **Home starts with a clear place to create.** A fresh Home opens ready for a Prototype, and switching creation types keeps the thought already in the composer. An empty balance is answered before leaving Home, while the project hand-off holds its layout steady instead of sliding into place. (#8208, #8278, #8240, #8229) Thanks @Siri-Ray.\n- 🧩 **Long-running work no longer replays itself.** A paused clarification keeps its history and waits for you; a compaction continuation can finish committed work in the same session instead of repeating it. (#8225, #8250, #7958) Thanks @lefarcen, @Siri-Ray.\n\n> 📥 **Download:** Tag `open-design-v0.23.0`.\n>\n> | Platform | Architecture | Assets |\n> |---|---|---|\n> | macOS | Apple silicon | [DMG](https://github.com/nexu-io/open-design/releases/download/open-design-v0.23.0/open-design-0.23.0-mac-arm64.dmg) · [SHA-256](https://github.com/nexu-io/open-design/releases/download/open-design-v0.23.0/open-design-0.23.0-mac-arm64.dmg.sha256) |\n> | macOS | Intel | [DMG](https://github.com/nexu-io/open-design/releases/download/open-design-v0.23.0/open-design-0.23.0-mac-x64.dmg) · [SHA-256](https://github.com/nexu-io/open-design/releases/download/open-design-v0.23.0/open-design-0.23.0-mac-x64.dmg.sha256) |\n> | Windows | x64 | [Installer](https://github.com/nexu-io/open-design/releases/download/open-design-v0.23.0/open-design-0.23.0-win-x64-setup.exe) · [SHA-256](https://github.com/nexu-io/open-design/releases/download/open-design-v0.23.0/open-design-0.23.0-win-x64-setup.exe.sha256) |\n\n## 🔁 Changed\n\n- Run clocks now begin when the run really begins; folded runs keep their own clocks, the composer stays visibly preparing during send admission, and retry cards describe the send gate they actually face. (#7921, #7927, #8059, #8069) Thanks @lefarcen.\n- Cloud and AMR account, balance and upgrade links now lead to the current dashboard routes instead of sending you on a dead-end detour. (#8126) Thanks @nettee.\n- Agent-owned Codex threads are archived after a terminal completion, keeping finished local work from lingering as if it were still alive. (#8051)\n- Client campaigns now keep an authorized placement visible through a temporary refresh problem, without waking the app solely to check it. (#7986, #8269) Thanks @alchemistklk.\n\n## 🐛 Fixed\n\n### 💬 Conversations and interface\n\n- Continue stays on the conversation turn that owns it; question controls follow the UI language; long question titles remain readable; and native tooltips no longer interrupt the choice flow. (#8014, #8010, #8031, #8033) Thanks @lefarcen.\n- Narrow chat panes keep footer actions and time visible; terminal artifact recovery respects the preview you chose; and uploaded attachments retain their true size. (#8001, #8050, #8030) Thanks @lefarcen.\n- A project-switcher menu stays usable while a run scrolls; queued messages show their drop point between cards; and the chat log no longer loses pointer hit-testing near its top edge. (#8223, #8228) Thanks @Siri-Ray, @lefarcen.\n- Campaign Test modals survive a same-deployment reload and can recover their replaced context instead of failing every placement. (#8210, #8263) Thanks @alchemistklk.\n\n### 🔑 Models, media and diagnostics\n\n- AMR media-model chat now respects the model guard, and workspace diagnostics retain bounded environmental evidence when a failure needs explaining. (#7695, #7951) Thanks @Siri-Ray, @lefarcen.\n- Client safety telemetry carries platform context and uses canonical monitoring kinds, making real-world errors easier to find and compare. (#7944, #7945)\n\n## 🙏 Thanks to everyone who shipped 0.23.0\n\n@alchemistklk · @lefarcen · @lorenzozanee · @nettee · @PerishCode · @QiuQiuNB666 · @readwrightexecute · @Siri-Ray\n",
   "reactions": {
     "url": "https://api.github.com/repos/nexu-io/open-design/releases/392404952/reactions",
-    "total_count": 3,
-    "+1": 3,
+    "total_count": 4,
+    "+1": 4,
     "-1": 0,
     "laugh": 0,
     "hooray": 0,
