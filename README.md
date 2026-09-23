@@ -4,7 +4,7 @@
 
 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode & 20+ CLIs via BYOK.
 
-[![x-cmd/install — open-design Code Quality Monitoring Repo Card](https://repo.x-cmd.io/open-design.svg)](https://x-cmd.com/install/open-design)
+[![x-cmd/install — open-design Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/open-design.svg)](https://x-cmd.com/install/open-design)
 
 ## Install
 
@@ -14,15 +14,15 @@ x install open-design
 
 ## Code insight
 
-Total: **2,233,344** lines of code across **9436** files in the top 5 languages.
+Total: **2,233,883** lines of code across **9440** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 1,031,779 | 113,826 | 77,924 | 3536 |
+| TypeScript | 1,032,323 | 113,862 | 77,990 | 3540 |
 | Json | 441,425 | 0 | 58 | 1850 |
-| Tsx | 405,545 | 51,010 | 33,124 | 1050 |
+| Tsx | 405,534 | 51,036 | 33,124 | 1050 |
 | Html | 162,443 | 3,265 | 4,503 | 2467 |
-| Css | 115,142 | 20,624 | 5,994 | 533 |
+| Css | 115,148 | 20,624 | 5,994 | 533 |
 
 ## Source
 
@@ -32,39 +32,36 @@ Total: **2,233,344** lines of code across **9436** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `open-design-v0.23.0` (2026-09-20)
-- **Last commit**: 2026-09-21
-- **Assets in release**: 6
+- **Latest**: `open-design-v0.24.0` (2026-09-22)
+- **Last commit**: 2026-09-22
+- **Assets in release**: 3
 
 ## Popularity
 
-- **Stars**: 97,511 · **Forks**: 11,325 · **Open issues**: 2,055 · **Contributors**: 451
+- **Stars**: 97,694 · **Forks**: 11,336 · **Open issues**: 2,059 · **Contributors**: 453
 
 ## Totals (cumulative)
 
-- **Releases**: 36 · **Merged PRs**: 3446 · **Open PRs**: 561 · **Closed issues**: 1508 · **Open issues**: 547 · **Commits**: 3679
+- **Releases**: 37 · **Merged PRs**: 3459 · **Open PRs**: 573 · **Closed issues**: 1531 · **Open issues**: 528 · **Commits**: 3687
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 6 | 439 | 234 | 33 | 145 | 218 |
-| last60d | 2026-07-24 | 15 | 996 | 378 | 145 | 285 | 657 |
-| 90d | 2026-06-24 | 23 | 1597 | 508 | 314 | 363 | 1174 |
-| last180d | 2026-03-26 | 36 | 3446 | 561 | 1508 | 547 | 3534 |
-| 360d | 2025-09-27 | 36 | 3446 | 561 | 1508 | 547 | 3534 |
-| last720d | 2024-10-02 | 36 | 3446 | 561 | 1508 | 547 | 3679 |
+| 30d | 2026-08-24 | 7 | 430 | 240 | 33 | 144 | 226 |
+| last60d | 2026-07-25 | 16 | 1007 | 384 | 146 | 286 | 665 |
+| 90d | 2026-06-25 | 24 | 1589 | 514 | 309 | 362 | 1182 |
+| last180d | 2026-03-27 | 37 | 3459 | 573 | 1531 | 528 | 3542 |
+| 360d | 2025-09-28 | 37 | 3459 | 573 | 1531 | 528 | 3542 |
+| last720d | 2024-10-03 | 37 | 3459 | 573 | 1531 | 528 | 3687 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [open-design-0.23.0-mac-arm64.dmg](https://github.com/nexu-io/open-design/releases/download/open-design-v0.23.0/open-design-0.23.0-mac-arm64.dmg) | 382.1 MiB | `other` |
-| [open-design-0.23.0-mac-arm64.dmg.sha256](https://github.com/nexu-io/open-design/releases/download/open-design-v0.23.0/open-design-0.23.0-mac-arm64.dmg.sha256) | 99 B | `other` |
-| [open-design-0.23.0-mac-x64.dmg](https://github.com/nexu-io/open-design/releases/download/open-design-v0.23.0/open-design-0.23.0-mac-x64.dmg) | 401.0 MiB | `other` |
-| [open-design-0.23.0-mac-x64.dmg.sha256](https://github.com/nexu-io/open-design/releases/download/open-design-v0.23.0/open-design-0.23.0-mac-x64.dmg.sha256) | 97 B | `other` |
-| [open-design-0.23.0-win-x64-setup.exe](https://github.com/nexu-io/open-design/releases/download/open-design-v0.23.0/open-design-0.23.0-win-x64-setup.exe) | 417.7 MiB | `other` |
-| [open-design-0.23.0-win-x64-setup.exe.sha256](https://github.com/nexu-io/open-design/releases/download/open-design-v0.23.0/open-design-0.23.0-win-x64-setup.exe.sha256) | 104 B | `other` |
+| [open-design-0.24.0-mac-arm64.dmg](https://github.com/nexu-io/open-design/releases/download/open-design-v0.24.0/open-design-0.24.0-mac-arm64.dmg) | 382.1 MiB | `other` |
+| [open-design-0.24.0-mac-x64.dmg](https://github.com/nexu-io/open-design/releases/download/open-design-v0.24.0/open-design-0.24.0-mac-x64.dmg) | 401.0 MiB | `other` |
+| [open-design-0.24.0-win-x64-setup.exe](https://github.com/nexu-io/open-design/releases/download/open-design-v0.24.0/open-design-0.24.0-win-x64-setup.exe) | 417.7 MiB | `other` |
 
 ## Improve this data
 
@@ -75,4 +72,4 @@ Install metadata for open-design lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:29:38Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:35:02Z._
