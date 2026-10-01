@@ -33,27 +33,27 @@ Total: **2,246,452** lines of code across **9501** files in the top 5 languages.
 ## Release
 
 - **Latest**: `open-design-v0.24.1` (2026-09-24)
-- **Last commit**: 2026-09-29
+- **Last commit**: 2026-09-30
 - **Assets in release**: 3
 
 ## Popularity
 
-- **Stars**: 98,786 · **Forks**: 11,446 · **Open issues**: 2,098 · **Contributors**: 455
+- **Stars**: 98,970 · **Forks**: 11,458 · **Open issues**: 2,105 · **Contributors**: 455
 
 ## Totals (cumulative)
 
-- **Releases**: 38 · **Merged PRs**: 3498 · **Open PRs**: 622 · **Closed issues**: 1569 · **Open issues**: 529 · **Commits**: 3707
+- **Releases**: 38 · **Merged PRs**: 3499 · **Open PRs**: 630 · **Closed issues**: 1569 · **Open issues**: 536 · **Commits**: 3708
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 7 | 333 | 226 | 21 | 134 | 189 |
-| last60d | 2026-08-01 | 17 | 942 | 411 | 136 | 277 | 644 |
-| 90d | 2026-07-02 | 24 | 1496 | 546 | 301 | 365 | 1056 |
-| last180d | 2026-04-03 | 38 | 3498 | 622 | 1569 | 529 | 3563 |
-| 360d | 2025-10-05 | 38 | 3498 | 622 | 1569 | 529 | 3563 |
-| last720d | 2024-10-10 | 38 | 3498 | 622 | 1569 | 529 | 3707 |
+| 30d | 2026-09-01 | 6 | 317 | 226 | 19 | 139 | 190 |
+| last60d | 2026-08-02 | 17 | 940 | 414 | 135 | 282 | 645 |
+| 90d | 2026-07-03 | 23 | 1476 | 548 | 292 | 372 | 1057 |
+| last180d | 2026-04-04 | 38 | 3499 | 630 | 1569 | 536 | 3564 |
+| 360d | 2025-10-06 | 38 | 3499 | 630 | 1569 | 536 | 3564 |
+| last720d | 2024-10-11 | 38 | 3499 | 630 | 1569 | 536 | 3708 |
 
 ## Release assets
 
@@ -72,4 +72,4 @@ Install metadata for open-design lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T06:02:17Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T06:29:36Z._
