@@ -38,22 +38,22 @@ Total: **2,246,452** lines of code across **9501** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 99,339 · **Forks**: 11,490 · **Open issues**: 2,116 · **Contributors**: 455
+- **Stars**: 99,455 · **Forks**: 11,505 · **Open issues**: 2,118 · **Contributors**: 455
 
 ## Totals (cumulative)
 
-- **Releases**: 38 · **Merged PRs**: 3499 · **Open PRs**: 622 · **Closed issues**: 1583 · **Open issues**: 533 · **Commits**: 3708
+- **Releases**: 38 · **Merged PRs**: 3499 · **Open PRs**: 626 · **Closed issues**: 1589 · **Open issues**: 529 · **Commits**: 3708
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-04 | 6 | 292 | 227 | 19 | 141 | 190 |
-| last60d | 2026-08-05 | 16 | 874 | 402 | 133 | 268 | 645 |
-| 90d | 2026-07-06 | 23 | 1429 | 544 | 301 | 366 | 1057 |
-| last180d | 2026-04-07 | 38 | 3499 | 622 | 1583 | 533 | 3564 |
-| 360d | 2025-10-09 | 38 | 3499 | 622 | 1583 | 533 | 3564 |
-| last720d | 2024-10-14 | 38 | 3499 | 622 | 1583 | 533 | 3708 |
+| 30d | 2026-09-05 | 6 | 288 | 227 | 19 | 139 | 112 |
+| last60d | 2026-08-06 | 15 | 838 | 397 | 130 | 255 | 517 |
+| 90d | 2026-07-07 | 23 | 1408 | 546 | 302 | 359 | 936 |
+| last180d | 2026-04-08 | 38 | 3499 | 626 | 1589 | 529 | 3564 |
+| 360d | 2025-10-10 | 38 | 3499 | 626 | 1589 | 529 | 3564 |
+| last720d | 2024-10-15 | 38 | 3499 | 626 | 1589 | 529 | 3708 |
 
 ## Release assets
 
@@ -72,4 +72,4 @@ Install metadata for open-design lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261004.yml` · 2026-10-04T06:23:58Z._
+_Snapshot: `data/card/261005.yml` · 2026-10-05T06:03:07Z._
