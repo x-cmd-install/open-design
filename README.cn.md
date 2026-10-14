@@ -2,7 +2,7 @@
 
 [English version](./README.md)
 
-🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode & 20+ CLIs via BYOK.
+The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Share work, exchange feedback, and iterate together in one workspace.
 
 [![x-cmd/install — open-design Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/open-design.svg?lang=zh)](https://x-cmd.com/install/open-design)
 
@@ -14,15 +14,15 @@ x install open-design
 
 ## 代码洞察
 
-合计: **2,252,624** 行代码（覆盖前 5 种语言、共 **9531** 个文件）。
+合计: **2,244,423** 行代码（覆盖前 5 种语言、共 **9546** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| TypeScript | 1,045,494 | 115,878 | 78,928 | 3606 |
+| TypeScript | 1,036,836 | 115,007 | 78,641 | 3617 |
 | Json | 441,522 | 0 | 58 | 1851 |
-| Tsx | 410,400 | 51,649 | 33,466 | 1070 |
+| Tsx | 410,849 | 51,670 | 33,497 | 1073 |
 | Html | 162,511 | 3,265 | 4,503 | 2468 |
-| Css | 115,406 | 20,709 | 5,992 | 536 |
+| Css | 115,414 | 20,709 | 5,992 | 537 |
 
 ## 源代码
 
@@ -38,22 +38,22 @@ x install open-design
 
 ## 流行度
 
-- **Star**: 100,829 · **Fork**: 11,617 · **开放 issue**: 2,152 · **贡献者**: 465
+- **Star**: 101,010 · **Fork**: 11,632 · **开放 issue**: 2,153 · **贡献者**: 465
 
 ## 累计统计
 
-- **发布数**: 38 · **已合并 PR**: 3548 · **开放 PR**: 654 · **已关闭 issue**: 1641 · **开放 issue**: 511 · **提交数**: 3736
+- **发布数**: 38 · **已合并 PR**: 3564 · **开放 PR**: 652 · **已关闭 issue**: 1648 · **开放 issue**: 505 · **提交数**: 3740
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 3 | 184 | 201 | 19 | 119 | 77 |
-| last60d | 2026-08-14 | 13 | 707 | 391 | 121 | 231 | 414 |
-| 90d | 2026-07-15 | 20 | 1252 | 529 | 282 | 324 | 820 |
-| last180d | 2026-04-16 | 38 | 3548 | 654 | 1641 | 511 | 3595 |
-| 360d | 2025-10-18 | 38 | 3548 | 654 | 1641 | 511 | 3595 |
-| last720d | 2024-10-23 | 38 | 3548 | 654 | 1641 | 511 | 3736 |
+| 30d | 2026-09-14 | 3 | 186 | 194 | 20 | 114 | 81 |
+| last60d | 2026-08-15 | 11 | 720 | 387 | 124 | 224 | 418 |
+| 90d | 2026-07-16 | 20 | 1224 | 521 | 275 | 315 | 824 |
+| last180d | 2026-04-17 | 38 | 3564 | 652 | 1648 | 505 | 3599 |
+| 360d | 2025-10-19 | 38 | 3564 | 652 | 1648 | 505 | 3599 |
+| last720d | 2024-10-24 | 38 | 3564 | 652 | 1648 | 505 | 3740 |
 
 ## Release 资产
 
@@ -72,4 +72,4 @@ open-design 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261013.yml` · 2026-10-13T07:20:26Z._
+_数据快照: `data/card/261014.yml` · 2026-10-14T05:31:13Z._
