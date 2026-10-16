@@ -14,15 +14,15 @@ x install open-design
 
 ## Code insight
 
-Total: **2,255,138** lines of code across **9588** files in the top 5 languages.
+Total: **2,264,116** lines of code across **9602** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 1,040,952 | 115,155 | 78,892 | 3646 |
+| TypeScript | 1,045,759 | 115,677 | 79,092 | 3657 |
 | Json | 442,349 | 0 | 58 | 1857 |
-| Tsx | 411,421 | 51,699 | 33,536 | 1074 |
+| Tsx | 415,589 | 51,929 | 33,701 | 1077 |
 | Html | 162,764 | 3,265 | 4,515 | 2474 |
-| Css | 115,417 | 20,712 | 5,993 | 537 |
+| Css | 115,420 | 20,713 | 5,994 | 537 |
 
 ## Source
 
@@ -32,36 +32,39 @@ Total: **2,255,138** lines of code across **9588** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `open-design-v0.24.1` (2026-09-24)
-- **Last commit**: 2026-10-15
-- **Assets in release**: 3
+- **Latest**: `open-design-v0.25.0` (2026-10-15)
+- **Last commit**: 2026-10-16
+- **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 101,194 · **Forks**: 11,650 · **Open issues**: 2,160 · **Contributors**: 465
+- **Stars**: 101,393 · **Forks**: 11,661 · **Open issues**: 2,172 · **Contributors**: 466
 
 ## Totals (cumulative)
 
-- **Releases**: 38 · **Merged PRs**: 3580 · **Open PRs**: 655 · **Closed issues**: 1653 · **Open issues**: 507 · **Commits**: 3748
+- **Releases**: 39 · **Merged PRs**: 3600 · **Open PRs**: 656 · **Closed issues**: 1657 · **Open issues**: 515 · **Commits**: 3757
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 3 | 180 | 192 | 20 | 112 | 0 |
-| last60d | 2026-08-16 | 11 | 725 | 390 | 128 | 224 | 0 |
-| 90d | 2026-07-17 | 20 | 1220 | 520 | 270 | 312 | 0 |
-| last180d | 2026-04-18 | 38 | 3580 | 655 | 1653 | 507 | 0 |
-| 360d | 2025-10-20 | 38 | 3580 | 655 | 1653 | 507 | 0 |
-| last720d | 2024-10-25 | 38 | 3580 | 655 | 1653 | 507 | 3748 |
+| 30d | 2026-09-16 | 4 | 186 | 187 | 22 | 119 | 98 |
+| last60d | 2026-08-17 | 12 | 723 | 386 | 123 | 228 | 435 |
+| 90d | 2026-07-18 | 20 | 1230 | 518 | 269 | 320 | 841 |
+| last180d | 2026-04-19 | 39 | 3600 | 656 | 1657 | 515 | 3616 |
+| 360d | 2025-10-21 | 39 | 3600 | 656 | 1657 | 515 | 3616 |
+| last720d | 2024-10-26 | 39 | 3600 | 656 | 1657 | 515 | 3757 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [open-design-0.24.1-mac-arm64.dmg](https://github.com/nexu-io/open-design/releases/download/open-design-v0.24.1/open-design-0.24.1-mac-arm64.dmg) | 382.2 MiB | `other` |
-| [open-design-0.24.1-mac-x64.dmg](https://github.com/nexu-io/open-design/releases/download/open-design-v0.24.1/open-design-0.24.1-mac-x64.dmg) | 401.4 MiB | `other` |
-| [open-design-0.24.1-win-x64-setup.exe](https://github.com/nexu-io/open-design/releases/download/open-design-v0.24.1/open-design-0.24.1-win-x64-setup.exe) | 417.9 MiB | `other` |
+| [open-design-0.25.0-mac-arm64.dmg](https://github.com/nexu-io/open-design/releases/download/open-design-v0.25.0/open-design-0.25.0-mac-arm64.dmg) | 387.9 MiB | `other` |
+| [open-design-0.25.0-mac-arm64.dmg.sha256](https://github.com/nexu-io/open-design/releases/download/open-design-v0.25.0/open-design-0.25.0-mac-arm64.dmg.sha256) | 99 B | `other` |
+| [open-design-0.25.0-mac-x64.dmg](https://github.com/nexu-io/open-design/releases/download/open-design-v0.25.0/open-design-0.25.0-mac-x64.dmg) | 406.7 MiB | `other` |
+| [open-design-0.25.0-mac-x64.dmg.sha256](https://github.com/nexu-io/open-design/releases/download/open-design-v0.25.0/open-design-0.25.0-mac-x64.dmg.sha256) | 97 B | `other` |
+| [open-design-0.25.0-win-x64-setup.exe](https://github.com/nexu-io/open-design/releases/download/open-design-v0.25.0/open-design-0.25.0-win-x64-setup.exe) | 422.3 MiB | `other` |
+| [open-design-0.25.0-win-x64-setup.exe.sha256](https://github.com/nexu-io/open-design/releases/download/open-design-v0.25.0/open-design-0.25.0-win-x64-setup.exe.sha256) | 104 B | `other` |
 
 ## Improve this data
 
@@ -72,4 +75,4 @@ Install metadata for open-design lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261015.yml` · 2026-10-15T05:09:10Z._
+_Snapshot: `data/card/261016.yml` · 2026-10-16T04:57:37Z._
