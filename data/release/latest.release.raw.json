@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 406694073,
       "digest": "sha256:171841cd5451c7890a09e5556e3023d78362557ac33201a5e202a725f53fdd83",
-      "download_count": 765,
+      "download_count": 2232,
       "created_at": "2026-10-15T14:43:40Z",
       "updated_at": "2026-10-15T14:43:56Z",
       "browser_download_url": "https://github.com/nexu-io/open-design/releases/download/open-design-v0.25.0/open-design-0.25.0-mac-arm64.dmg"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 99,
       "digest": "sha256:24aebc6ab8e52dd89dd28879807ec73183f9d7f9290272aa719dace455975eb4",
-      "download_count": 35,
+      "download_count": 110,
       "created_at": "2026-10-15T14:43:40Z",
       "updated_at": "2026-10-15T14:43:40Z",
       "browser_download_url": "https://github.com/nexu-io/open-design/releases/download/open-design-v0.25.0/open-design-0.25.0-mac-arm64.dmg.sha256"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 426446291,
       "digest": "sha256:269f0414544cbf74b3d2c7e9cc223d53aa36bd8556b4b883991e1862e7776b8f",
-      "download_count": 61,
+      "download_count": 187,
       "created_at": "2026-10-15T14:43:40Z",
       "updated_at": "2026-10-15T14:43:56Z",
       "browser_download_url": "https://github.com/nexu-io/open-design/releases/download/open-design-v0.25.0/open-design-0.25.0-mac-x64.dmg"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 97,
       "digest": "sha256:297a5682aa03eb7654ccd2ba660c3a3e221d47584dc629e3e2319355475484f3",
-      "download_count": 11,
+      "download_count": 28,
       "created_at": "2026-10-15T14:43:40Z",
       "updated_at": "2026-10-15T14:43:40Z",
       "browser_download_url": "https://github.com/nexu-io/open-design/releases/download/open-design-v0.25.0/open-design-0.25.0-mac-x64.dmg.sha256"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 442774220,
       "digest": "sha256:2a916de71015f55445aa2982f189ecc927b74c1cb8a0b48d6b10878172efc7a8",
-      "download_count": 1652,
+      "download_count": 5239,
       "created_at": "2026-10-15T14:43:40Z",
       "updated_at": "2026-10-15T14:43:51Z",
       "browser_download_url": "https://github.com/nexu-io/open-design/releases/download/open-design-v0.25.0/open-design-0.25.0-win-x64-setup.exe"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 104,
       "digest": "sha256:6bd2c7f85c9874e541dd6571ce376c5df15a833bf477c5ee4054c90616ee5077",
-      "download_count": 85,
+      "download_count": 292,
       "created_at": "2026-10-15T14:43:40Z",
       "updated_at": "2026-10-15T14:43:41Z",
       "browser_download_url": "https://github.com/nexu-io/open-design/releases/download/open-design-v0.25.0/open-design-0.25.0-win-x64-setup.exe.sha256"
@@ -258,8 +258,8 @@
   "body": "### 🌟 Codename: *OpenDesign Motion*\n\n**The Open-Source Alternative to Claude Motion**\n\n🎞️ **`53 PRs` · `16 contributors` · `21 days`** — **Turn ideas into videos with code.** Start from five bundled motion examples, create editable animations, and export your work as MP4. This release also makes editing, previews, and continuing work across devices smoother.\n\n## 🔥 Highlights\n\n- 🎞️ **Introducing OpenDesign Motion.** Open Motion Design on Home or Community, choose from five bundled examples, and use the motion skills from the `@` picker. Ask for a video to get editable source files and an MP4; interactive animations remain runnable HTML. Sound stops when you leave the active preview. (#8619)\n- 🧭 **Move from a design plan into making it.** Design tasks can continue from an ordinary written plan without failing on missing internal response markers. A request for a plan alone stays a plan, and completed work can again offer follow-up suggestions when the model supplies them. (#8356, #8770) Thanks @itscheems.\n- 🔄 **You decide when another device's changes replace local work.** Review a cloud update before applying it. Choosing “Not now” with the 24-hour reminder option silences reminders for that project on that device; the update remains available when you are ready. (#8683) Thanks @PerishCode.\n- 🖼️ **New files appear, and your preview stays where you left it.** Completed tasks refresh the file list so newly created images and other files can open. Manual preview choices stay respected, and restoring a project preserves a saved Design Files selection. (#8744, #8745)\n- 💳 **An insufficient-credit warning keeps your draft safe.** A Home send already held for insufficient funds waits for a confirmed available balance or plan allowance before continuing. A failed check keeps you on Home; dismissing the dialog preserves the draft. A zero wallet balance still allows work when usable Coding Plan quota is available. (#8688, #8775)\n- 🤖 **Keep working when a model changes or a conversation grows.** If an AMR model is removed, the app can use the catalog default and tell you which model was substituted. Long conversations limit repeated image and PDF attachments to reduce request-size failures; older attachments can be read again when needed. (#8602, #8767) Thanks @Siri-Ray.\n- 🔑 **Sign in and start with OpenDesign Hosted.** The welcome flow opens Hosted after sign-in, while Local AI and API Key remain available. Sign-in controls show progress, cancellation, and a way to reopen the browser page if needed. (#8567)\n- 🔎 **Useful diagnostics, with less repeated uploading.** Repeated instances of the same API failure are grouped, and AMR failure evidence includes the affected run's records. Windows log rotation preserves the user's consent boundary. (#8461, #8488, #8487) Thanks @Siri-Ray.\n\n> 📥 **Download:** [Open Design 0.25.0](https://github.com/nexu-io/open-design/releases/tag/open-design-v0.25.0).\n\n## ✨ Added\n\n### 🎨 Motion and templates\n\n- **Five motion examples to start from:** Motion Future, Product Promo, Showreel, UI Morph, and Visual Lesson. Their bundled scripts, fonts, audio, and previews support editing from the example. Video export checks that the resulting MP4 can play; a failed export keeps the editable source available. (#8619)\n- **Aster Atelier architecture-studio template.** Start a website from an editable local example with chapter navigation, service and FAQ sections, and a contact-form demonstration. English and Chinese example prompts are included; the demo does not send real contact requests. (#8314)\n\n## 🔁 Changed\n\n### 💬 Everyday work\n\n- Sending clears the composer immediately. If the send cannot proceed, its text, attachments, context, and quotes return, unless you have already started a new draft. (#8380) Thanks @Siri-Ray.\n- Export, sign-in, update, storage, credit, and stopped-task messages explain what happened in plain language across all 19 supported locales. Export errors no longer show raw technical failure text. (#8620) Thanks @lefarcen.\n- Hover over a shortened model name to read it in full in Settings and the composer model pickers. Models locked by a plan retain their upgrade explanation. (#8409) Thanks @PratikRai0101.\n\n## 🐛 Fixed\n\n### 💬 Conversations and design tasks\n\n- Live Thinking text remains visible when older conversation history finishes loading. (#8167)\n- Memory cards arriving late remain in the conversation that produced them, including after switching conversations or reloading. (#8065)\n- Answering a clarification preserves the previous completed task's status, duration, and collapsed steps while the next task starts. (#8401) Thanks @Siri-Ray.\n- Continuing older design conversations retains the original request, attachments, and relevant history. Plain-text answers can finish normally, and unfinished tasks remain available to continue. (#8356)\n- Follow-up suggestions can appear again after automatic design production. Choosing a suggestion fills the composer for you to send. (#8770) Thanks @itscheems.\n\n### 🗂️ Projects, files, and previews\n\n- Empty project lists finish loading; a failed read shows an error and Retry instead of spinning forever or pretending there are no projects. Switching workspaces stops background status requests for the previous list. (#8443, #8442) Thanks @Siri-Ray.\n- Files with the same name in one upload batch receive suffixes in submission order, keeping each returned filename matched to its contents. Existing files are preserved. (#8742)\n- Newly generated files are discovered after a task finishes, and saved local tab selections survive restore when the server has not saved the newer choice yet. (#8744, #8745)\n- Home's title and full composer remain reachable by scrolling in short windows. (#8649) Thanks @itscheems.\n- Shortened workspace names reveal the hidden text correctly after switching to a right-to-left language. (#8692) Thanks @Siri-Ray.\n- Cached in-app campaigns can survive temporary offline periods and restarts while their authorization remains valid. Withdrawn or expired campaigns do not reappear from an old cache. (#8676)\n\n### 🧠 Models and local agents\n\n- Simultaneous sign-in credential refreshes can recover through the existing safe retry path instead of immediately failing a task. (#8160) Thanks @Marinski.\n- Antigravity can start long-prompt tasks on Windows, with streamed replies and tool steps appearing in chat. (#8594) Thanks @lefarcen.\n- Completed AMR answers on Windows are no longer marked failed just because the app closes the finished agent process. (#8514) Thanks @Siri-Ray.\n- AMR failures caused by Windows versions older than Windows 10 1809 explain that Windows needs updating instead of offering an ineffective retry. (#8629) Thanks @Siri-Ray.\n- OpenCode skills can read their own supporting files without an unnecessary permission prompt. (#8178) Thanks @aron-intframe.\n- Pi retains its configured alternative settings directory after app settings are saved. (#8119) Thanks @L4XB.\n- The bundled Vela CLI is updated to 0.1.6, enabling the history-attachment limit for conversations with many images or PDFs. (#8767) Thanks @Siri-Ray.\n\n### 🖥️ Desktop reliability\n\n- Long macOS temporary-directory paths no longer prevent the local app services from starting. (#8002) Thanks @abhi-zit77.\n- When the operating system runs out of network buffers, the desktop app stops repeated internal request retries instead of extending the hang. (#8283) Thanks @chenlei-github.\n\n## 🙏 Thanks to everyone who shipped 0.25.0\n\n@HaiYangBG1 · @L4XB · @Marinski · @PerishCode · @PratikRai0101 · @Siri-Ray · @abhi-zit77 · @alchemistklk · @aron-intframe · @chenlei-github · @gabrielhmsantos · @itscheems · @joeylee12629-star · @lefarcen · @matthew6s · @nettee\n\n[简体中文更新说明](https://github.com/nexu-io/open-design/blob/open-design-v0.25.0/docs/CHANGELOG/v0.25.0/zh-CN.md)\n",
   "reactions": {
     "url": "https://api.github.com/repos/nexu-io/open-design/releases/413926204/reactions",
-    "total_count": 5,
-    "+1": 5,
+    "total_count": 7,
+    "+1": 7,
     "-1": 0,
     "laugh": 0,
     "hooray": 0,
