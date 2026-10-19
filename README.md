@@ -2,7 +2,7 @@
 
 [中文版本](./README.cn.md)
 
-The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Share work, exchange feedback, and iterate together in one workspace.
+The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Share work, exchange feedback, and iterate together in one workspace.
 
 [![x-cmd/install — open-design Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/open-design.svg)](https://x-cmd.com/install/open-design)
 
@@ -38,22 +38,22 @@ Total: **2,265,686** lines of code across **9606** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 101,997 · **Forks**: 11,718 · **Open issues**: 2,191 · **Contributors**: 467
+- **Stars**: 102,261 · **Forks**: 11,730 · **Open issues**: 2,197 · **Contributors**: 467
 
 ## Totals (cumulative)
 
-- **Releases**: 39 · **Merged PRs**: 3609 · **Open PRs**: 668 · **Closed issues**: 1662 · **Open issues**: 529 · **Commits**: 3761
+- **Releases**: 39 · **Merged PRs**: 3609 · **Open PRs**: 668 · **Closed issues**: 1662 · **Open issues**: 535 · **Commits**: 3761
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-18 | 4 | 153 | 187 | 22 | 132 | 102 |
-| last60d | 2026-08-19 | 12 | 664 | 381 | 115 | 237 | 439 |
-| 90d | 2026-07-20 | 20 | 1224 | 527 | 268 | 333 | 845 |
-| last180d | 2026-04-21 | 39 | 3609 | 668 | 1662 | 529 | 3620 |
-| 360d | 2025-10-23 | 39 | 3609 | 668 | 1662 | 529 | 3620 |
-| last720d | 2024-10-28 | 39 | 3609 | 668 | 1662 | 529 | 3761 |
+| 30d | 2026-09-19 | 4 | 149 | 184 | 21 | 135 | 61 |
+| last60d | 2026-08-20 | 11 | 628 | 378 | 109 | 241 | 334 |
+| 90d | 2026-07-21 | 20 | 1196 | 521 | 259 | 333 | 766 |
+| last180d | 2026-04-22 | 39 | 3609 | 668 | 1662 | 535 | 3620 |
+| 360d | 2025-10-24 | 39 | 3609 | 668 | 1662 | 535 | 3620 |
+| last720d | 2024-10-29 | 39 | 3609 | 668 | 1662 | 535 | 3761 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for open-design lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261018.yml` · 2026-10-18T04:54:45Z._
+_Snapshot: `data/card/261019.yml` · 2026-10-19T05:04:35Z._

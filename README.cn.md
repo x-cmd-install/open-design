@@ -2,7 +2,7 @@
 
 [English version](./README.md)
 
-The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Share work, exchange feedback, and iterate together in one workspace.
+The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Share work, exchange feedback, and iterate together in one workspace.
 
 [![x-cmd/install — open-design Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/open-design.svg?lang=zh)](https://x-cmd.com/install/open-design)
 
@@ -38,22 +38,22 @@ x install open-design
 
 ## 流行度
 
-- **Star**: 101,997 · **Fork**: 11,718 · **开放 issue**: 2,191 · **贡献者**: 467
+- **Star**: 102,261 · **Fork**: 11,730 · **开放 issue**: 2,197 · **贡献者**: 467
 
 ## 累计统计
 
-- **发布数**: 39 · **已合并 PR**: 3609 · **开放 PR**: 668 · **已关闭 issue**: 1662 · **开放 issue**: 529 · **提交数**: 3761
+- **发布数**: 39 · **已合并 PR**: 3609 · **开放 PR**: 668 · **已关闭 issue**: 1662 · **开放 issue**: 535 · **提交数**: 3761
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-18 | 4 | 153 | 187 | 22 | 132 | 102 |
-| last60d | 2026-08-19 | 12 | 664 | 381 | 115 | 237 | 439 |
-| 90d | 2026-07-20 | 20 | 1224 | 527 | 268 | 333 | 845 |
-| last180d | 2026-04-21 | 39 | 3609 | 668 | 1662 | 529 | 3620 |
-| 360d | 2025-10-23 | 39 | 3609 | 668 | 1662 | 529 | 3620 |
-| last720d | 2024-10-28 | 39 | 3609 | 668 | 1662 | 529 | 3761 |
+| 30d | 2026-09-19 | 4 | 149 | 184 | 21 | 135 | 61 |
+| last60d | 2026-08-20 | 11 | 628 | 378 | 109 | 241 | 334 |
+| 90d | 2026-07-21 | 20 | 1196 | 521 | 259 | 333 | 766 |
+| last180d | 2026-04-22 | 39 | 3609 | 668 | 1662 | 535 | 3620 |
+| 360d | 2025-10-24 | 39 | 3609 | 668 | 1662 | 535 | 3620 |
+| last720d | 2024-10-29 | 39 | 3609 | 668 | 1662 | 535 | 3761 |
 
 ## Release 资产
 
@@ -75,4 +75,4 @@ open-design 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261018.yml` · 2026-10-18T04:54:46Z._
+_数据快照: `data/card/261019.yml` · 2026-10-19T05:04:36Z._
