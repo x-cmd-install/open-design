@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 406694073,
       "digest": "sha256:171841cd5451c7890a09e5556e3023d78362557ac33201a5e202a725f53fdd83",
-      "download_count": 3531,
+      "download_count": 5900,
       "created_at": "2026-10-15T14:43:40Z",
       "updated_at": "2026-10-15T14:43:56Z",
       "browser_download_url": "https://github.com/nexu-io/open-design/releases/download/open-design-v0.25.0/open-design-0.25.0-mac-arm64.dmg"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 99,
       "digest": "sha256:24aebc6ab8e52dd89dd28879807ec73183f9d7f9290272aa719dace455975eb4",
-      "download_count": 201,
+      "download_count": 267,
       "created_at": "2026-10-15T14:43:40Z",
       "updated_at": "2026-10-15T14:43:40Z",
       "browser_download_url": "https://github.com/nexu-io/open-design/releases/download/open-design-v0.25.0/open-design-0.25.0-mac-arm64.dmg.sha256"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 426446291,
       "digest": "sha256:269f0414544cbf74b3d2c7e9cc223d53aa36bd8556b4b883991e1862e7776b8f",
-      "download_count": 298,
+      "download_count": 402,
       "created_at": "2026-10-15T14:43:40Z",
       "updated_at": "2026-10-15T14:43:56Z",
       "browser_download_url": "https://github.com/nexu-io/open-design/releases/download/open-design-v0.25.0/open-design-0.25.0-mac-x64.dmg"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 97,
       "digest": "sha256:297a5682aa03eb7654ccd2ba660c3a3e221d47584dc629e3e2319355475484f3",
-      "download_count": 43,
+      "download_count": 62,
       "created_at": "2026-10-15T14:43:40Z",
       "updated_at": "2026-10-15T14:43:40Z",
       "browser_download_url": "https://github.com/nexu-io/open-design/releases/download/open-design-v0.25.0/open-design-0.25.0-mac-x64.dmg.sha256"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 442774220,
       "digest": "sha256:2a916de71015f55445aa2982f189ecc927b74c1cb8a0b48d6b10878172efc7a8",
-      "download_count": 9122,
+      "download_count": 12768,
       "created_at": "2026-10-15T14:43:40Z",
       "updated_at": "2026-10-15T14:43:51Z",
       "browser_download_url": "https://github.com/nexu-io/open-design/releases/download/open-design-v0.25.0/open-design-0.25.0-win-x64-setup.exe"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 104,
       "digest": "sha256:6bd2c7f85c9874e541dd6571ce376c5df15a833bf477c5ee4054c90616ee5077",
-      "download_count": 531,
+      "download_count": 753,
       "created_at": "2026-10-15T14:43:40Z",
       "updated_at": "2026-10-15T14:43:41Z",
       "browser_download_url": "https://github.com/nexu-io/open-design/releases/download/open-design-v0.25.0/open-design-0.25.0-win-x64-setup.exe.sha256"
