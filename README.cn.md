@@ -14,13 +14,13 @@ x install open-design
 
 ## 代码洞察
 
-合计: **2,312,263** 行代码（覆盖前 5 种语言、共 **9927** 个文件）。
+合计: **2,312,302** 行代码（覆盖前 5 种语言、共 **9927** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
 | TypeScript | 1,080,477 | 120,550 | 80,941 | 3892 |
-| Json | 443,640 | 0 | 58 | 1862 |
-| Tsx | 428,174 | 52,530 | 34,388 | 1143 |
+| Json | 443,639 | 0 | 58 | 1862 |
+| Tsx | 428,221 | 52,540 | 34,392 | 1143 |
 | Html | 162,766 | 3,265 | 4,515 | 2476 |
 | Css | 116,607 | 20,950 | 6,110 | 554 |
 
@@ -32,39 +32,39 @@ x install open-design
 
 ## 发布
 
-- **最新版本**: `open-design-v0.25.0` (2026-10-15)
+- **最新版本**: `open-design-v0.26.0` (2026-10-20)
 - **最近提交**: 2026-10-20
 - **Release 含资产**: 6 个
 
 ## 流行度
 
-- **Star**: 102,589 · **Fork**: 11,754 · **开放 issue**: 2,201 · **贡献者**: 467
+- **Star**: 102,858 · **Fork**: 11,786 · **开放 issue**: 2,209 · **贡献者**: 467
 
 ## 累计统计
 
-- **发布数**: 39 · **已合并 PR**: 3620 · **开放 PR**: 674 · **已关闭 issue**: 1673 · **开放 issue**: 528 · **提交数**: 3767
+- **发布数**: 40 · **已合并 PR**: 3629 · **开放 PR**: 695 · **已关闭 issue**: 1678 · **开放 issue**: 531 · **提交数**: 3771
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 4 | 156 | 190 | 20 | 134 | 67 |
-| last60d | 2026-08-21 | 10 | 617 | 375 | 103 | 243 | 340 |
-| 90d | 2026-07-22 | 20 | 1183 | 521 | 265 | 323 | 772 |
-| last180d | 2026-04-23 | 39 | 3620 | 674 | 1673 | 528 | 3626 |
-| 360d | 2025-10-25 | 39 | 3620 | 674 | 1673 | 528 | 3626 |
-| last720d | 2024-10-30 | 39 | 3620 | 674 | 1673 | 528 | 3767 |
+| 30d | 2026-09-21 | 4 | 157 | 214 | 18 | 136 | 71 |
+| last60d | 2026-08-22 | 10 | 622 | 393 | 94 | 245 | 344 |
+| 90d | 2026-07-23 | 20 | 1181 | 527 | 262 | 328 | 776 |
+| last180d | 2026-04-24 | 40 | 3629 | 695 | 1678 | 531 | 3630 |
+| 360d | 2025-10-26 | 40 | 3629 | 695 | 1678 | 531 | 3630 |
+| last720d | 2024-10-31 | 40 | 3629 | 695 | 1678 | 531 | 3771 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [open-design-0.25.0-mac-arm64.dmg](https://github.com/nexu-io/open-design/releases/download/open-design-v0.25.0/open-design-0.25.0-mac-arm64.dmg) | 387.9 MiB | `other` |
-| [open-design-0.25.0-mac-arm64.dmg.sha256](https://github.com/nexu-io/open-design/releases/download/open-design-v0.25.0/open-design-0.25.0-mac-arm64.dmg.sha256) | 99 B | `other` |
-| [open-design-0.25.0-mac-x64.dmg](https://github.com/nexu-io/open-design/releases/download/open-design-v0.25.0/open-design-0.25.0-mac-x64.dmg) | 406.7 MiB | `other` |
-| [open-design-0.25.0-mac-x64.dmg.sha256](https://github.com/nexu-io/open-design/releases/download/open-design-v0.25.0/open-design-0.25.0-mac-x64.dmg.sha256) | 97 B | `other` |
-| [open-design-0.25.0-win-x64-setup.exe](https://github.com/nexu-io/open-design/releases/download/open-design-v0.25.0/open-design-0.25.0-win-x64-setup.exe) | 422.3 MiB | `other` |
-| [open-design-0.25.0-win-x64-setup.exe.sha256](https://github.com/nexu-io/open-design/releases/download/open-design-v0.25.0/open-design-0.25.0-win-x64-setup.exe.sha256) | 104 B | `other` |
+| [open-design-0.26.0-mac-arm64.dmg](https://github.com/nexu-io/open-design/releases/download/open-design-v0.26.0/open-design-0.26.0-mac-arm64.dmg) | 388.1 MiB | `other` |
+| [open-design-0.26.0-mac-arm64.dmg.sha256](https://github.com/nexu-io/open-design/releases/download/open-design-v0.26.0/open-design-0.26.0-mac-arm64.dmg.sha256) | 99 B | `other` |
+| [open-design-0.26.0-mac-x64.dmg](https://github.com/nexu-io/open-design/releases/download/open-design-v0.26.0/open-design-0.26.0-mac-x64.dmg) | 406.9 MiB | `other` |
+| [open-design-0.26.0-mac-x64.dmg.sha256](https://github.com/nexu-io/open-design/releases/download/open-design-v0.26.0/open-design-0.26.0-mac-x64.dmg.sha256) | 97 B | `other` |
+| [open-design-0.26.0-win-x64-setup.exe](https://github.com/nexu-io/open-design/releases/download/open-design-v0.26.0/open-design-0.26.0-win-x64-setup.exe) | 422.5 MiB | `other` |
+| [open-design-0.26.0-win-x64-setup.exe.sha256](https://github.com/nexu-io/open-design/releases/download/open-design-v0.26.0/open-design-0.26.0-win-x64-setup.exe.sha256) | 104 B | `other` |
 
 ## 改进这些数据
 
@@ -75,4 +75,4 @@ open-design 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261020.yml` · 2026-10-20T05:18:39Z._
+_数据快照: `data/card/261021.yml` · 2026-10-21T05:12:59Z._
