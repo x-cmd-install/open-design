@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 406959358,
       "digest": "sha256:ff7a1181b83aca664b85b7da0a5df740c99cf34bdce203d5276022ee72946d76",
-      "download_count": 972,
+      "download_count": 2477,
       "created_at": "2026-10-20T14:34:48Z",
       "updated_at": "2026-10-20T14:35:07Z",
       "browser_download_url": "https://github.com/nexu-io/open-design/releases/download/open-design-v0.26.0/open-design-0.26.0-mac-arm64.dmg"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 99,
       "digest": "sha256:bff320f44eed41d104f351c0d10dc79ead3101ba2f7528a411a33c061f799aaa",
-      "download_count": 77,
+      "download_count": 153,
       "created_at": "2026-10-20T14:34:48Z",
       "updated_at": "2026-10-20T14:34:49Z",
       "browser_download_url": "https://github.com/nexu-io/open-design/releases/download/open-design-v0.26.0/open-design-0.26.0-mac-arm64.dmg.sha256"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 426712705,
       "digest": "sha256:f2fc313eb5b62c207621b5f15e83aa135c69a04e9cbae25fce94da2d99c346ee",
-      "download_count": 57,
+      "download_count": 208,
       "created_at": "2026-10-20T14:34:48Z",
       "updated_at": "2026-10-20T14:35:12Z",
       "browser_download_url": "https://github.com/nexu-io/open-design/releases/download/open-design-v0.26.0/open-design-0.26.0-mac-x64.dmg"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 97,
       "digest": "sha256:3314a1da6a278b5809cbd5c987d2b75a2c7f4901df42ad4c340cac76677290d0",
-      "download_count": 19,
+      "download_count": 29,
       "created_at": "2026-10-20T14:34:49Z",
       "updated_at": "2026-10-20T14:34:49Z",
       "browser_download_url": "https://github.com/nexu-io/open-design/releases/download/open-design-v0.26.0/open-design-0.26.0-mac-x64.dmg.sha256"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 443022089,
       "digest": "sha256:4c0697a53177753072593b44133f44cca76421a102a4da1b4229d5e643569b00",
-      "download_count": 2905,
+      "download_count": 7216,
       "created_at": "2026-10-20T14:34:48Z",
       "updated_at": "2026-10-20T14:35:13Z",
       "browser_download_url": "https://github.com/nexu-io/open-design/releases/download/open-design-v0.26.0/open-design-0.26.0-win-x64-setup.exe"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 104,
       "digest": "sha256:b464136cba7f2abd0ce0ab6933e6ff2ea0cde8e9b1b1f5dadd3a4d43a5fe59e7",
-      "download_count": 153,
+      "download_count": 396,
       "created_at": "2026-10-20T14:34:49Z",
       "updated_at": "2026-10-20T14:34:49Z",
       "browser_download_url": "https://github.com/nexu-io/open-design/releases/download/open-design-v0.26.0/open-design-0.26.0-win-x64-setup.exe.sha256"
@@ -258,8 +258,8 @@
   "body": "### 🌟 Codename: *Share, Review, Refine*\n\n🔗 **The work can leave the project—and the feedback can find its way home.** Share an interactive design or motion video with the people who need to review it; let them watch, try it, and comment in context. Then choose the feedback that matters, send it to an Agent, and keep the review connected to the next round of making.\n\n## 🔥 Highlights\n\n- 🎞️ **Motion Design—make the idea move.** Motion Design now appears on Home and in Community, with curated helpers and examples. Start from an editable source, create motion for a video brief, and export an MP4 when the work needs to travel. (#8619)\n- 🔗 **One link for the team and the client.** Copy a work link and send it out: signed-in reviewers can view and try the work in a browser, without installing the desktop app. Motion videos can travel the same way. The shared page shows the work preview and its comments—not the project's AI conversations or code view. (#8408) Thanks @alchemistklk.\n- 💬 **Comment on the part that needs changing.** Select the place in the work that needs attention and leave a comment such as “make this title stand out” or “change this button color.” Everyone sees the same feedback on the same page, with less screenshot markup and fewer clarification loops. (#8408) Thanks @alchemistklk.\n- 🤖 **Bring feedback back to the project—and hand the revision to an Agent.** Comments sync into Open Design. Select the feedback to act on, send it to an Agent, then review the result before the next pass. (#8408) Thanks @alchemistklk.\n- 🔄 **Update the work, not the link.** After a revision, manually refresh the shared content and reviewers can keep using the same URL. They see that a newer version is available and can refresh to view it; end the share whenever the review is done. (#8408) Thanks @alchemistklk.\n- 🧩 **Plugins stay attached to the work you send.** Applying a plugin in an existing project now preserves its selected snapshot and respects the capabilities you already granted. (#7597) Thanks @lorenzozanee.\n- 🧠 **Bring the model you actually use.** During BYOK onboarding, enter a custom model instead of being limited to the suggested list—useful for local Ollama, self-hosted endpoints, and newer models. (#6076) Thanks @dpeterson01.\n- 🌀 **A stuck chat can find its way back.** When a chat log stops following its layout, Open Design recovers scrolling and keeps wheel and keyboard navigation available. (#8251) Thanks @lefarcen.\n- 🖼️ **Finished work shows up where you expect it.** After a run creates an image or file, Open Design refreshes its snapshot and opens the result by the existing rules—without taking over a preview you selected yourself. (#8744)\n\n> 📥 **Download:** Tag `open-design-v0.26.0`.\n>\n> | Platform | Architecture | Assets |\n> |---|---|---|\n> | macOS | Apple silicon | [DMG](https://github.com/nexu-io/open-design/releases/download/open-design-v0.26.0/open-design-0.26.0-mac-arm64.dmg) · [SHA-256](https://github.com/nexu-io/open-design/releases/download/open-design-v0.26.0/open-design-0.26.0-mac-arm64.dmg.sha256) |\n> | macOS | Intel | [DMG](https://github.com/nexu-io/open-design/releases/download/open-design-v0.26.0/open-design-0.26.0-mac-x64.dmg) · [SHA-256](https://github.com/nexu-io/open-design/releases/download/open-design-v0.26.0/open-design-0.26.0-mac-x64.dmg.sha256) |\n> | Windows | x64 | [Installer](https://github.com/nexu-io/open-design/releases/download/open-design-v0.26.0/open-design-0.26.0-win-x64-setup.exe) · [SHA-256](https://github.com/nexu-io/open-design/releases/download/open-design-v0.26.0/open-design-0.26.0-win-x64-setup.exe.sha256) |\n\n## ✨ Added\n\n### 🎨 Studio, editing and canvas\n\n- Motion Design adds curated skills, bundled examples, editable sources, and MP4 production for video-oriented work. (#8619)\n\n### 🔑 Models and plugins\n\n- BYOK onboarding accepts custom model names alongside the built-in suggestions. (#6076) Thanks @dpeterson01.\n- Existing projects retain the plugin snapshot and granted capabilities chosen for an apply. (#7597) Thanks @lorenzozanee.\n\n## 🐛 Fixed\n\n### 🤝 Sharing and collaboration\n\n- Signed-in reviewers can view and interact with shared work or motion video in the browser; shared pages intentionally keep project AI conversations and code views private. (#8408) Thanks @alchemistklk.\n- Contextual comments sync back to the project, where selected feedback can be sent to an Agent for the next revision. (#8408) Thanks @alchemistklk.\n- A shared work link stays stable across manually refreshed revisions and can be stopped when the review is complete. (#8408) Thanks @alchemistklk.\n- Existing cloud file identities and aliases are recovered before publishing, so resumed or updated shares keep their original links when local mappings are missing. (#8859, #8867) Thanks @alchemistklk.\n- Uploading duplicate filenames in one batch keeps names and contents in submission order. (#8742)\n\n### 🧠 Agents, runs and Home\n\n- Home keeps a draft blocked when funding confirmation is insufficient or unknown; billing changes refresh the hint without sending that draft for you. (#8688, #8775, #8786)\n- The default AMR model is resolved from the caller's available catalog, avoiding an avoidable first-run failure. (#8519) Thanks @Siri-Ray.\n- Cached offline content now respects revocation and expiry across restarts. (#8676)\n\n### 🖥️ Desktop and workspace\n\n- Workspace users can complete the desktop update safety check without an unscoped active-run request blocking restart. (#8462) Thanks @Siri-Ray.\n- A saved empty local file selection survives restore instead of being replaced by a default artifact. (#8745) Thanks @open-design-crew.\n\n## 🙏 Thanks to everyone who shipped 0.26.0\n\n@alchemistklk · @hihicheems · @Siri-Ray · @dpeterson01 · @lefarcen · @lorenzozanee\n\n[简体中文更新说明](https://github.com/nexu-io/open-design/blob/open-design-v0.26.0/docs/CHANGELOG/v0.26.0/zh-CN.md)\n",
   "reactions": {
     "url": "https://api.github.com/repos/nexu-io/open-design/releases/418502333/reactions",
-    "total_count": 5,
-    "+1": 5,
+    "total_count": 6,
+    "+1": 6,
     "-1": 0,
     "laugh": 0,
     "hooray": 0,
