@@ -32,43 +32,43 @@ Total: **2,372,186** lines of code across **10248** files in the top 5 languages
 
 ## Release
 
-- **Latest**: `open-design-v0.26.1` (2026-10-22)
+- **Latest**: `open-design-v0.27.0` (2026-11-04)
 - **Last commit**: 2026-11-02
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 105,598 · **Forks**: 12,040 · **Open issues**: 2,292 · **Contributors**: 471
+- **Stars**: 105,817 · **Forks**: 12,054 · **Open issues**: 2,296 · **Contributors**: 471
 
 ## Totals (cumulative)
 
-- **Releases**: 41 · **Merged PRs**: 3754 · **Open PRs**: 762 · **Closed issues**: 1713 · **Open issues**: 579 · **Commits**: 3834
+- **Releases**: 42 · **Merged PRs**: 3755 · **Open PRs**: 770 · **Closed issues**: 1721 · **Open issues**: 575 · **Commits**: 3834
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 3 | 218 | 211 | 18 | 155 | 115 |
-| last60d | 2026-09-04 | 9 | 538 | 387 | 69 | 267 | 271 |
-| 90d | 2026-08-05 | 19 | 1123 | 542 | 230 | 347 | 687 |
-| last180d | 2026-05-07 | 36 | 3370 | 761 | 1380 | 564 | 3013 |
-| 360d | 2025-11-08 | 41 | 3754 | 762 | 1713 | 579 | 3693 |
-| last720d | 2024-11-13 | 41 | 3754 | 762 | 1713 | 579 | 3834 |
+| 30d | 2026-10-05 | 4 | 219 | 219 | 18 | 158 | 115 |
+| last60d | 2026-09-05 | 10 | 535 | 390 | 74 | 262 | 271 |
+| 90d | 2026-08-06 | 19 | 1088 | 541 | 226 | 337 | 687 |
+| last180d | 2026-05-08 | 36 | 3302 | 769 | 1338 | 558 | 3013 |
+| 360d | 2025-11-09 | 42 | 3755 | 770 | 1721 | 575 | 3693 |
+| last720d | 2024-11-14 | 42 | 3755 | 770 | 1721 | 575 | 3834 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [open-design-0.26.1-mac-arm64.dmg](https://github.com/nexu-io/open-design/releases/download/open-design-v0.26.1/open-design-0.26.1-mac-arm64.dmg) | 388.2 MiB | `other` |
-| [open-design-0.26.1-mac-arm64.dmg.sha256](https://github.com/nexu-io/open-design/releases/download/open-design-v0.26.1/open-design-0.26.1-mac-arm64.dmg.sha256) | 99 B | `other` |
-| [open-design-0.26.1-mac-x64.dmg](https://github.com/nexu-io/open-design/releases/download/open-design-v0.26.1/open-design-0.26.1-mac-x64.dmg) | 407.1 MiB | `other` |
-| [open-design-0.26.1-mac-x64.dmg.sha256](https://github.com/nexu-io/open-design/releases/download/open-design-v0.26.1/open-design-0.26.1-mac-x64.dmg.sha256) | 97 B | `other` |
-| [open-design-0.26.1-win-x64-setup.exe](https://github.com/nexu-io/open-design/releases/download/open-design-v0.26.1/open-design-0.26.1-win-x64-setup.exe) | 422.6 MiB | `other` |
-| [open-design-0.26.1-win-x64-setup.exe.sha256](https://github.com/nexu-io/open-design/releases/download/open-design-v0.26.1/open-design-0.26.1-win-x64-setup.exe.sha256) | 104 B | `other` |
+| [open-design-0.27.0-mac-arm64.dmg](https://github.com/nexu-io/open-design/releases/download/open-design-v0.27.0/open-design-0.27.0-mac-arm64.dmg) | 410.2 MiB | `other` |
+| [open-design-0.27.0-mac-arm64.dmg.sha256](https://github.com/nexu-io/open-design/releases/download/open-design-v0.27.0/open-design-0.27.0-mac-arm64.dmg.sha256) | 99 B | `other` |
+| [open-design-0.27.0-mac-x64.dmg](https://github.com/nexu-io/open-design/releases/download/open-design-v0.27.0/open-design-0.27.0-mac-x64.dmg) | 429.1 MiB | `other` |
+| [open-design-0.27.0-mac-x64.dmg.sha256](https://github.com/nexu-io/open-design/releases/download/open-design-v0.27.0/open-design-0.27.0-mac-x64.dmg.sha256) | 97 B | `other` |
+| [open-design-0.27.0-win-x64-setup.exe](https://github.com/nexu-io/open-design/releases/download/open-design-v0.27.0/open-design-0.27.0-win-x64-setup.exe) | 443.0 MiB | `other` |
+| [open-design-0.27.0-win-x64-setup.exe.sha256](https://github.com/nexu-io/open-design/releases/download/open-design-v0.27.0/open-design-0.27.0-win-x64-setup.exe.sha256) | 104 B | `other` |
 
 ## Distribution status
 
-Reported by **3** distros on [repology.org](https://repology.org/project/open-design). **2** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
+Reported by **3** distros on [repology.org](https://repology.org/project/open-design). **1** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
 
 ## Improve this data
 
@@ -79,4 +79,4 @@ Install metadata for open-design lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T07:24:33Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T06:52:45Z._

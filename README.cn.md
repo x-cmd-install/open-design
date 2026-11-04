@@ -32,43 +32,43 @@ x install open-design
 
 ## 发布
 
-- **最新版本**: `open-design-v0.26.1` (2026-10-22)
+- **最新版本**: `open-design-v0.27.0` (2026-11-04)
 - **最近提交**: 2026-11-02
 - **Release 含资产**: 6 个
 
 ## 流行度
 
-- **Star**: 105,598 · **Fork**: 12,040 · **开放 issue**: 2,292 · **贡献者**: 471
+- **Star**: 105,817 · **Fork**: 12,054 · **开放 issue**: 2,296 · **贡献者**: 471
 
 ## 累计统计
 
-- **发布数**: 41 · **已合并 PR**: 3754 · **开放 PR**: 762 · **已关闭 issue**: 1713 · **开放 issue**: 579 · **提交数**: 3834
+- **发布数**: 42 · **已合并 PR**: 3755 · **开放 PR**: 770 · **已关闭 issue**: 1721 · **开放 issue**: 575 · **提交数**: 3834
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 3 | 218 | 211 | 18 | 155 | 115 |
-| last60d | 2026-09-04 | 9 | 538 | 387 | 69 | 267 | 271 |
-| 90d | 2026-08-05 | 19 | 1123 | 542 | 230 | 347 | 687 |
-| last180d | 2026-05-07 | 36 | 3370 | 761 | 1380 | 564 | 3013 |
-| 360d | 2025-11-08 | 41 | 3754 | 762 | 1713 | 579 | 3693 |
-| last720d | 2024-11-13 | 41 | 3754 | 762 | 1713 | 579 | 3834 |
+| 30d | 2026-10-05 | 4 | 219 | 219 | 18 | 158 | 115 |
+| last60d | 2026-09-05 | 10 | 535 | 390 | 74 | 262 | 271 |
+| 90d | 2026-08-06 | 19 | 1088 | 541 | 226 | 337 | 687 |
+| last180d | 2026-05-08 | 36 | 3302 | 769 | 1338 | 558 | 3013 |
+| 360d | 2025-11-09 | 42 | 3755 | 770 | 1721 | 575 | 3693 |
+| last720d | 2024-11-14 | 42 | 3755 | 770 | 1721 | 575 | 3834 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [open-design-0.26.1-mac-arm64.dmg](https://github.com/nexu-io/open-design/releases/download/open-design-v0.26.1/open-design-0.26.1-mac-arm64.dmg) | 388.2 MiB | `other` |
-| [open-design-0.26.1-mac-arm64.dmg.sha256](https://github.com/nexu-io/open-design/releases/download/open-design-v0.26.1/open-design-0.26.1-mac-arm64.dmg.sha256) | 99 B | `other` |
-| [open-design-0.26.1-mac-x64.dmg](https://github.com/nexu-io/open-design/releases/download/open-design-v0.26.1/open-design-0.26.1-mac-x64.dmg) | 407.1 MiB | `other` |
-| [open-design-0.26.1-mac-x64.dmg.sha256](https://github.com/nexu-io/open-design/releases/download/open-design-v0.26.1/open-design-0.26.1-mac-x64.dmg.sha256) | 97 B | `other` |
-| [open-design-0.26.1-win-x64-setup.exe](https://github.com/nexu-io/open-design/releases/download/open-design-v0.26.1/open-design-0.26.1-win-x64-setup.exe) | 422.6 MiB | `other` |
-| [open-design-0.26.1-win-x64-setup.exe.sha256](https://github.com/nexu-io/open-design/releases/download/open-design-v0.26.1/open-design-0.26.1-win-x64-setup.exe.sha256) | 104 B | `other` |
+| [open-design-0.27.0-mac-arm64.dmg](https://github.com/nexu-io/open-design/releases/download/open-design-v0.27.0/open-design-0.27.0-mac-arm64.dmg) | 410.2 MiB | `other` |
+| [open-design-0.27.0-mac-arm64.dmg.sha256](https://github.com/nexu-io/open-design/releases/download/open-design-v0.27.0/open-design-0.27.0-mac-arm64.dmg.sha256) | 99 B | `other` |
+| [open-design-0.27.0-mac-x64.dmg](https://github.com/nexu-io/open-design/releases/download/open-design-v0.27.0/open-design-0.27.0-mac-x64.dmg) | 429.1 MiB | `other` |
+| [open-design-0.27.0-mac-x64.dmg.sha256](https://github.com/nexu-io/open-design/releases/download/open-design-v0.27.0/open-design-0.27.0-mac-x64.dmg.sha256) | 97 B | `other` |
+| [open-design-0.27.0-win-x64-setup.exe](https://github.com/nexu-io/open-design/releases/download/open-design-v0.27.0/open-design-0.27.0-win-x64-setup.exe) | 443.0 MiB | `other` |
+| [open-design-0.27.0-win-x64-setup.exe.sha256](https://github.com/nexu-io/open-design/releases/download/open-design-v0.27.0/open-design-0.27.0-win-x64-setup.exe.sha256) | 104 B | `other` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/open-design) 上共有 **3** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**0** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/open-design) 上共有 **3** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**1** 个 ⚠️ 使用旧版本。
 
 ## 改进这些数据
 
@@ -79,4 +79,4 @@ open-design 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261103.yml` · 2026-11-03T07:24:34Z._
+_数据快照: `data/card/261104.yml` · 2026-11-04T06:52:46Z._
