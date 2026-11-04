@@ -1,10 +1,17 @@
+- repo: homebrew_casks
+  srcname: open-design
+  visiblename: Open Design
+  version: 0.27.0
+  origversion: null
+  status: newest
+  summary: Local-first, agent-native design tool
 - repo: aur
   srcname: open-design
   binname: open-design
   visiblename: open-design
   version: 0.26.1
   origversion: 0.26.1-9
-  status: newest
+  status: outdated
   summary: 'Local-first design product: design skills and design systems with your code-agent CLI; daemon and static web UI (CLI: open-design).'
   maintainers:
     - refreeze5911@aur
@@ -23,10 +30,3 @@
     - motherofmilk@aur
   licenses:
     - Apache-2.0
-- repo: homebrew_casks
-  srcname: open-design
-  visiblename: Open Design
-  version: 0.26.1
-  origversion: null
-  status: newest
-  summary: Local-first, agent-native design tool
