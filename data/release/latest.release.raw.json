@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 431097290,
       "digest": "sha256:bf012a963f2b57c2da420b01544e9b79b8820b07b0c06963510736233f7dfa63",
-      "download_count": 196,
+      "download_count": 1614,
       "created_at": "2026-11-10T03:03:04Z",
       "updated_at": "2026-11-10T03:03:17Z",
       "browser_download_url": "https://github.com/nexu-io/open-design/releases/download/open-design-v0.27.1/open-design-0.27.1-mac-arm64.dmg"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 99,
       "digest": "sha256:1db5b15be0f9401000204aeb5f46ed468fc7dee67fe92bf80f1b32743a455480",
-      "download_count": 13,
+      "download_count": 78,
       "created_at": "2026-11-10T03:03:04Z",
       "updated_at": "2026-11-10T03:03:05Z",
       "browser_download_url": "https://github.com/nexu-io/open-design/releases/download/open-design-v0.27.1/open-design-0.27.1-mac-arm64.dmg.sha256"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 450963250,
       "digest": "sha256:bcf09a0c2bc6b661b6e93674f8e23958b9da5dd49ae6a3710cd2271b5b388b99",
-      "download_count": 42,
+      "download_count": 120,
       "created_at": "2026-11-10T03:03:04Z",
       "updated_at": "2026-11-10T03:03:19Z",
       "browser_download_url": "https://github.com/nexu-io/open-design/releases/download/open-design-v0.27.1/open-design-0.27.1-mac-x64.dmg"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 97,
       "digest": "sha256:aee565ec601006a8711e287d7d5aa7b5a6252ce237017ab16b9f3815b288d0b9",
-      "download_count": 18,
+      "download_count": 31,
       "created_at": "2026-11-10T03:03:04Z",
       "updated_at": "2026-11-10T03:03:05Z",
       "browser_download_url": "https://github.com/nexu-io/open-design/releases/download/open-design-v0.27.1/open-design-0.27.1-mac-x64.dmg.sha256"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 465526993,
       "digest": "sha256:fb3c875a39ac8e21ee122f2f2e19f0724a7edbb50d93eb07b74d30756fb4f1db",
-      "download_count": 584,
+      "download_count": 3359,
       "created_at": "2026-11-10T03:03:04Z",
       "updated_at": "2026-11-10T03:03:16Z",
       "browser_download_url": "https://github.com/nexu-io/open-design/releases/download/open-design-v0.27.1/open-design-0.27.1-win-x64-setup.exe"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 104,
       "digest": "sha256:cc909810acdcdb66247f14245f24f43e03b7c1d68268c8f853ce9a99be3d1adc",
-      "download_count": 39,
+      "download_count": 150,
       "created_at": "2026-11-10T03:03:05Z",
       "updated_at": "2026-11-10T03:03:05Z",
       "browser_download_url": "https://github.com/nexu-io/open-design/releases/download/open-design-v0.27.1/open-design-0.27.1-win-x64-setup.exe.sha256"
@@ -255,5 +255,17 @@
   ],
   "tarball_url": "https://api.github.com/repos/nexu-io/open-design/tarball/open-design-v0.27.1",
   "zipball_url": "https://api.github.com/repos/nexu-io/open-design/zipball/open-design-v0.27.1",
-  "body": "Get up to 6 RESET on OpenDesign 🎉\n\nInvite a friend to OpenDesign. When they sign up through your link and start their first paid subscription within 48 hours, you each receive a Reset Card if eligible. Use it to reset your Design Plan usage limits.\n\n> 📥 **Download:** Find desktop installers on [GitHub Releases](https://github.com/nexu-io/open-design/releases).\n\n## 🔥 Highlights\n\n- **🎉 Invite friends, earn together.** Invite a friend to subscribe and both of you receive a Reset Card. A simple invitation turns into a shared boost for the next thing you make.\n- **💡 Start creating from \\$8.** Your first month starts at \\$8, with up to \\$220 in DeepSeek usage to help you keep experimenting.\n- **🎬 Make more in one place.** Turn ideas into motion videos, design work, and slides without leaving OpenDesign.\n"
+  "body": "Get up to 6 RESET on OpenDesign 🎉\n\nInvite a friend to OpenDesign. When they sign up through your link and start their first paid subscription within 48 hours, you each receive a Reset Card if eligible. Use it to reset your Design Plan usage limits.\n\n> 📥 **Download:** Find desktop installers on [GitHub Releases](https://github.com/nexu-io/open-design/releases).\n\n## 🔥 Highlights\n\n- **🎉 Invite friends, earn together.** Invite a friend to subscribe and both of you receive a Reset Card. A simple invitation turns into a shared boost for the next thing you make.\n- **💡 Start creating from \\$8.** Your first month starts at \\$8, with up to \\$220 in DeepSeek usage to help you keep experimenting.\n- **🎬 Make more in one place.** Turn ideas into motion videos, design work, and slides without leaving OpenDesign.\n",
+  "reactions": {
+    "url": "https://api.github.com/repos/nexu-io/open-design/releases/439897450/reactions",
+    "total_count": 2,
+    "+1": 2,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 0,
+    "eyes": 0
+  }
 }
