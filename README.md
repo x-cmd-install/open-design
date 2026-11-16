@@ -33,27 +33,27 @@ Total: **2,381,339** lines of code across **10331** files in the top 5 languages
 ## Release
 
 - **Latest**: `open-design-v0.27.1` (2026-11-10)
-- **Last commit**: 2026-11-13
+- **Last commit**: 2026-11-16
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 107,685 · **Forks**: 12,243 · **Open issues**: 2,351 · **Contributors**: 471
+- **Stars**: 107,812 · **Forks**: 12,252 · **Open issues**: 2,354 · **Contributors**: 471
 
 ## Totals (cumulative)
 
-- **Releases**: 43 · **Merged PRs**: 3799 · **Open PRs**: 822 · **Closed issues**: 1769 · **Open issues**: 582 · **Commits**: 3861
+- **Releases**: 43 · **Merged PRs**: 3801 · **Open PRs**: 824 · **Closed issues**: 1770 · **Open issues**: 584 · **Commits**: 3862
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 4 | 176 | 218 | 10 | 163 | 107 |
-| last60d | 2026-09-16 | 8 | 382 | 377 | 62 | 258 | 223 |
-| 90d | 2026-08-17 | 16 | 921 | 562 | 193 | 337 | 590 |
-| last180d | 2026-05-19 | 35 | 2925 | 809 | 979 | 526 | 2705 |
-| 360d | 2025-11-20 | 43 | 3799 | 822 | 1769 | 582 | 3720 |
-| last720d | 2024-11-25 | 43 | 3799 | 822 | 1769 | 582 | 3861 |
+| 30d | 2026-10-17 | 4 | 178 | 215 | 10 | 154 | 69 |
+| last60d | 2026-09-17 | 8 | 357 | 371 | 62 | 258 | 175 |
+| 90d | 2026-08-18 | 16 | 883 | 553 | 184 | 334 | 482 |
+| last180d | 2026-05-20 | 35 | 2856 | 806 | 942 | 526 | 2396 |
+| 360d | 2025-11-21 | 43 | 3801 | 824 | 1770 | 584 | 3721 |
+| last720d | 2024-11-26 | 43 | 3801 | 824 | 1770 | 584 | 3862 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for open-design lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T07:09:46Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T07:26:25Z._
