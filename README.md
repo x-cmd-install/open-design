@@ -32,39 +32,39 @@ Total: **2,392,315** lines of code across **10346** files in the top 5 languages
 
 ## Release
 
-- **Latest**: `open-design-v0.27.1` (2026-11-10)
+- **Latest**: `open-design-v0.27.2` (2026-11-19)
 - **Last commit**: 2026-11-18
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 108,411 · **Forks**: 12,300 · **Open issues**: 2,374 · **Contributors**: 476
+- **Stars**: 108,595 · **Forks**: 12,309 · **Open issues**: 2,380 · **Contributors**: 476
 
 ## Totals (cumulative)
 
-- **Releases**: 43 · **Merged PRs**: 3820 · **Open PRs**: 838 · **Closed issues**: 1784 · **Open issues**: 590 · **Commits**: 3875
+- **Releases**: 44 · **Merged PRs**: 3820 · **Open PRs**: 845 · **Closed issues**: 1790 · **Open issues**: 590 · **Commits**: 3875
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 4 | 168 | 220 | 12 | 154 | 82 |
-| last60d | 2026-09-20 | 8 | 354 | 381 | 63 | 264 | 188 |
-| 90d | 2026-08-21 | 14 | 817 | 550 | 178 | 341 | 495 |
-| last180d | 2026-05-23 | 34 | 2764 | 819 | 889 | 513 | 2409 |
-| 360d | 2025-11-24 | 43 | 3820 | 838 | 1784 | 590 | 3734 |
-| last720d | 2024-11-29 | 43 | 3820 | 838 | 1784 | 590 | 3875 |
+| 30d | 2026-10-21 | 4 | 159 | 209 | 13 | 152 | 82 |
+| last60d | 2026-09-21 | 8 | 346 | 385 | 64 | 261 | 188 |
+| 90d | 2026-08-22 | 14 | 813 | 555 | 174 | 336 | 495 |
+| last180d | 2026-05-24 | 35 | 2747 | 826 | 891 | 512 | 2409 |
+| 360d | 2025-11-25 | 44 | 3820 | 845 | 1790 | 590 | 3734 |
+| last720d | 2024-11-30 | 44 | 3820 | 845 | 1790 | 590 | 3875 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [open-design-0.27.1-mac-arm64.dmg](https://github.com/nexu-io/open-design/releases/download/open-design-v0.27.1/open-design-0.27.1-mac-arm64.dmg) | 411.1 MiB | `other` |
-| [open-design-0.27.1-mac-arm64.dmg.sha256](https://github.com/nexu-io/open-design/releases/download/open-design-v0.27.1/open-design-0.27.1-mac-arm64.dmg.sha256) | 99 B | `other` |
-| [open-design-0.27.1-mac-x64.dmg](https://github.com/nexu-io/open-design/releases/download/open-design-v0.27.1/open-design-0.27.1-mac-x64.dmg) | 430.1 MiB | `other` |
-| [open-design-0.27.1-mac-x64.dmg.sha256](https://github.com/nexu-io/open-design/releases/download/open-design-v0.27.1/open-design-0.27.1-mac-x64.dmg.sha256) | 97 B | `other` |
-| [open-design-0.27.1-win-x64-setup.exe](https://github.com/nexu-io/open-design/releases/download/open-design-v0.27.1/open-design-0.27.1-win-x64-setup.exe) | 444.0 MiB | `other` |
-| [open-design-0.27.1-win-x64-setup.exe.sha256](https://github.com/nexu-io/open-design/releases/download/open-design-v0.27.1/open-design-0.27.1-win-x64-setup.exe.sha256) | 104 B | `other` |
+| [open-design-0.27.2-mac-arm64.dmg](https://github.com/nexu-io/open-design/releases/download/open-design-v0.27.2/open-design-0.27.2-mac-arm64.dmg) | 411.8 MiB | `other` |
+| [open-design-0.27.2-mac-arm64.dmg.sha256](https://github.com/nexu-io/open-design/releases/download/open-design-v0.27.2/open-design-0.27.2-mac-arm64.dmg.sha256) | 99 B | `other` |
+| [open-design-0.27.2-mac-x64.dmg](https://github.com/nexu-io/open-design/releases/download/open-design-v0.27.2/open-design-0.27.2-mac-x64.dmg) | 430.8 MiB | `other` |
+| [open-design-0.27.2-mac-x64.dmg.sha256](https://github.com/nexu-io/open-design/releases/download/open-design-v0.27.2/open-design-0.27.2-mac-x64.dmg.sha256) | 97 B | `other` |
+| [open-design-0.27.2-win-x64-setup.exe](https://github.com/nexu-io/open-design/releases/download/open-design-v0.27.2/open-design-0.27.2-win-x64-setup.exe) | 444.4 MiB | `other` |
+| [open-design-0.27.2-win-x64-setup.exe.sha256](https://github.com/nexu-io/open-design/releases/download/open-design-v0.27.2/open-design-0.27.2-win-x64-setup.exe.sha256) | 104 B | `other` |
 
 ## Distribution status
 
@@ -79,4 +79,4 @@ Install metadata for open-design lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T09:13:44Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T08:29:28Z._

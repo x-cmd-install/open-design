@@ -32,39 +32,39 @@ x install open-design
 
 ## 发布
 
-- **最新版本**: `open-design-v0.27.1` (2026-11-10)
+- **最新版本**: `open-design-v0.27.2` (2026-11-19)
 - **最近提交**: 2026-11-18
 - **Release 含资产**: 6 个
 
 ## 流行度
 
-- **Star**: 108,411 · **Fork**: 12,300 · **开放 issue**: 2,374 · **贡献者**: 476
+- **Star**: 108,595 · **Fork**: 12,309 · **开放 issue**: 2,380 · **贡献者**: 476
 
 ## 累计统计
 
-- **发布数**: 43 · **已合并 PR**: 3820 · **开放 PR**: 838 · **已关闭 issue**: 1784 · **开放 issue**: 590 · **提交数**: 3875
+- **发布数**: 44 · **已合并 PR**: 3820 · **开放 PR**: 845 · **已关闭 issue**: 1790 · **开放 issue**: 590 · **提交数**: 3875
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 4 | 168 | 220 | 12 | 154 | 82 |
-| last60d | 2026-09-20 | 8 | 354 | 381 | 63 | 264 | 188 |
-| 90d | 2026-08-21 | 14 | 817 | 550 | 178 | 341 | 495 |
-| last180d | 2026-05-23 | 34 | 2764 | 819 | 889 | 513 | 2409 |
-| 360d | 2025-11-24 | 43 | 3820 | 838 | 1784 | 590 | 3734 |
-| last720d | 2024-11-29 | 43 | 3820 | 838 | 1784 | 590 | 3875 |
+| 30d | 2026-10-21 | 4 | 159 | 209 | 13 | 152 | 82 |
+| last60d | 2026-09-21 | 8 | 346 | 385 | 64 | 261 | 188 |
+| 90d | 2026-08-22 | 14 | 813 | 555 | 174 | 336 | 495 |
+| last180d | 2026-05-24 | 35 | 2747 | 826 | 891 | 512 | 2409 |
+| 360d | 2025-11-25 | 44 | 3820 | 845 | 1790 | 590 | 3734 |
+| last720d | 2024-11-30 | 44 | 3820 | 845 | 1790 | 590 | 3875 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [open-design-0.27.1-mac-arm64.dmg](https://github.com/nexu-io/open-design/releases/download/open-design-v0.27.1/open-design-0.27.1-mac-arm64.dmg) | 411.1 MiB | `other` |
-| [open-design-0.27.1-mac-arm64.dmg.sha256](https://github.com/nexu-io/open-design/releases/download/open-design-v0.27.1/open-design-0.27.1-mac-arm64.dmg.sha256) | 99 B | `other` |
-| [open-design-0.27.1-mac-x64.dmg](https://github.com/nexu-io/open-design/releases/download/open-design-v0.27.1/open-design-0.27.1-mac-x64.dmg) | 430.1 MiB | `other` |
-| [open-design-0.27.1-mac-x64.dmg.sha256](https://github.com/nexu-io/open-design/releases/download/open-design-v0.27.1/open-design-0.27.1-mac-x64.dmg.sha256) | 97 B | `other` |
-| [open-design-0.27.1-win-x64-setup.exe](https://github.com/nexu-io/open-design/releases/download/open-design-v0.27.1/open-design-0.27.1-win-x64-setup.exe) | 444.0 MiB | `other` |
-| [open-design-0.27.1-win-x64-setup.exe.sha256](https://github.com/nexu-io/open-design/releases/download/open-design-v0.27.1/open-design-0.27.1-win-x64-setup.exe.sha256) | 104 B | `other` |
+| [open-design-0.27.2-mac-arm64.dmg](https://github.com/nexu-io/open-design/releases/download/open-design-v0.27.2/open-design-0.27.2-mac-arm64.dmg) | 411.8 MiB | `other` |
+| [open-design-0.27.2-mac-arm64.dmg.sha256](https://github.com/nexu-io/open-design/releases/download/open-design-v0.27.2/open-design-0.27.2-mac-arm64.dmg.sha256) | 99 B | `other` |
+| [open-design-0.27.2-mac-x64.dmg](https://github.com/nexu-io/open-design/releases/download/open-design-v0.27.2/open-design-0.27.2-mac-x64.dmg) | 430.8 MiB | `other` |
+| [open-design-0.27.2-mac-x64.dmg.sha256](https://github.com/nexu-io/open-design/releases/download/open-design-v0.27.2/open-design-0.27.2-mac-x64.dmg.sha256) | 97 B | `other` |
+| [open-design-0.27.2-win-x64-setup.exe](https://github.com/nexu-io/open-design/releases/download/open-design-v0.27.2/open-design-0.27.2-win-x64-setup.exe) | 444.4 MiB | `other` |
+| [open-design-0.27.2-win-x64-setup.exe.sha256](https://github.com/nexu-io/open-design/releases/download/open-design-v0.27.2/open-design-0.27.2-win-x64-setup.exe.sha256) | 104 B | `other` |
 
 ## 发行版状态
 
@@ -79,4 +79,4 @@ open-design 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261119.yml` · 2026-11-19T09:13:44Z._
+_数据快照: `data/card/261120.yml` · 2026-11-20T08:29:30Z._
