@@ -14,15 +14,15 @@ x install open-design
 
 ## Code insight
 
-Total: **2,392,315** lines of code across **10346** files in the top 5 languages.
+Total: **2,392,437** lines of code across **10346** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 1,129,920 | 122,458 | 83,506 | 4207 |
+| TypeScript | 1,130,049 | 122,461 | 83,512 | 4207 |
 | Json | 460,731 | 0 | 58 | 1903 |
-| Tsx | 438,926 | 52,526 | 34,764 | 1177 |
+| Tsx | 438,925 | 52,528 | 34,764 | 1177 |
 | Html | 164,411 | 3,281 | 4,521 | 2494 |
-| Css | 117,486 | 21,010 | 6,167 | 565 |
+| Css | 117,480 | 21,010 | 6,167 | 565 |
 
 ## Source
 
@@ -33,27 +33,27 @@ Total: **2,392,315** lines of code across **10346** files in the top 5 languages
 ## Release
 
 - **Latest**: `open-design-v0.27.2` (2026-11-19)
-- **Last commit**: 2026-11-18
+- **Last commit**: 2026-11-21
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 108,595 · **Forks**: 12,309 · **Open issues**: 2,380 · **Contributors**: 476
+- **Stars**: 108,743 · **Forks**: 12,310 · **Open issues**: 2,383 · **Contributors**: 476
 
 ## Totals (cumulative)
 
-- **Releases**: 44 · **Merged PRs**: 3820 · **Open PRs**: 845 · **Closed issues**: 1790 · **Open issues**: 590 · **Commits**: 3875
+- **Releases**: 44 · **Merged PRs**: 3824 · **Open PRs**: 850 · **Closed issues**: 1794 · **Open issues**: 589 · **Commits**: 3877
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 4 | 159 | 209 | 13 | 152 | 82 |
-| last60d | 2026-09-21 | 8 | 346 | 385 | 64 | 261 | 188 |
-| 90d | 2026-08-22 | 14 | 813 | 555 | 174 | 336 | 495 |
-| last180d | 2026-05-24 | 35 | 2747 | 826 | 891 | 512 | 2409 |
-| 360d | 2025-11-25 | 44 | 3820 | 845 | 1790 | 590 | 3734 |
-| last720d | 2024-11-30 | 44 | 3820 | 845 | 1790 | 590 | 3875 |
+| 30d | 2026-10-22 | 4 | 136 | 192 | 12 | 146 | 84 |
+| last60d | 2026-09-22 | 8 | 336 | 376 | 64 | 259 | 190 |
+| 90d | 2026-08-23 | 14 | 808 | 556 | 169 | 338 | 497 |
+| last180d | 2026-05-25 | 35 | 2722 | 831 | 863 | 506 | 2411 |
+| 360d | 2025-11-26 | 44 | 3824 | 850 | 1794 | 589 | 3736 |
+| last720d | 2024-12-01 | 44 | 3824 | 850 | 1794 | 589 | 3877 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for open-design lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T08:29:28Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T08:48:07Z._
